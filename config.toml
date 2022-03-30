@@ -1,4 +1,4 @@
-# This file is for render site varibles and plugins
+## This file is for render site varibles and plugins
 # don't remove this file.
 # The presence of this file is for compatibility with Blogdown and Forestry.
 #
@@ -8,14 +8,14 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-primary_color = "#0AA8A7"
+primary_color = "#5dade2"
 text_color = "#777"
 text_color_dark = "#222"
 body_color = "#fff"
 border_color = "#ECECEC"
 black = "#000"
 white = "#fff"
-light = "#EDF6F5"
+light = "#d6eaf8"
 
 # font variable
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"
