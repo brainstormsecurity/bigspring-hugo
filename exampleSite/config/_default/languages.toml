@@ -8,9 +8,9 @@ weight = 1
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Brainstorm Security LTD, <br>Kemp Hse, 152-160 City Road, <br>London, EC1V 2NX. <br>Registered UK LTD <br>Company No 13751634."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Design By [Themefisher] Develop By [Gethugothemes]"
 
 
 
@@ -24,6 +24,6 @@ weight = 2
 footer_menu_left = "Firma"
 footer_menu_middle = "Produkte"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Brainstorm Security LTD, <br>Kemp Hse, 152-160 City Road, <br>London, EC1V 2NX. <br>Registered UK LTD <br>Company No 13751634."
 # copyright
 copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
