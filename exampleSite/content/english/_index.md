@@ -1,48 +1,49 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
-  image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  title : "Let us help solve your critical <br> Social Engineering & Penetration Testing <br> security challenges"
+  image : "images/training.jpg"
+  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? <br> If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
-    link : "contact/"
+    link : "contact"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Start securing your facilities today"
   feature_item:
+      # feature item loop
+    - name : "Expereienced Experts"
+      icon : "fas fa-user-secret"
+      content : "Our security consultants are seasoned professionals with years of law enforcment, military or cyber experience. Understand what insider threats you can mitigate. "
+
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Training"
+      icon : "fas fa-user-graduate"
+      content : "We believe strongly in training people to protect against threats. We can help train your staff to thwart social engineering, cyber and real world threats."
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Clear Reports"
+      icon : "fas fa-file-alt"
+      content : "Following our assessments. We provide clear detailed reports of all our findings, including any recommendations, physical or traing improvements for you."
       
     # feature item loop
-    - name : "24h Service"
+    - name : "Consultation"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Understanding your requirements first during consultation, helps us create tailor-made physical penetration tests, including scope of work and costs."
       
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Insider Threats"
+      icon : "fas fa-address-card"
+      content : "It is a common requirement of information security programs to replicate the threat of social engineering attacks through regular penetration tests."
+      
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Specialists"
+      icon : "fas fa-door-open"
+      content : "With highly experienced consultants, who have been deployed against highly secure individuals and premises. We can show you how to improve your security."
       
 
 
@@ -51,21 +52,23 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "We have decades of experience helping conduct physical security tests"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/Social engineer tran.gif"
+      - "images/Vishing tran.png"
+      - "images/tailgating tran.gif"
+      content : "With indepth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br/>
+Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then condsider how you can do things better."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "Arrange a free consultation."
+        link : "contact"
         
     # service item loop
     - title : "It is a privately owned Information and cyber security company"
       images:
-      - "images/service-1.png"
+      - "images/shoulder surfing tran.gif"
+      - "images/dumpster tran.gif"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
@@ -75,7 +78,7 @@ service:
     # service item loop
     - title : "It’s a team of experienced and skilled people with distributions"
       images:
-      - "images/service-2.png"
+      - "images/nervous lady.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
@@ -105,9 +108,9 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "blah blah blah "
   button:
     enable : true
     label : "Contact Us"
-    link : "contact/"
+    link : "contact"
 ---

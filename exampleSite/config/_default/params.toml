@@ -38,7 +38,7 @@ link = "#"
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.twitter.com/Brainstorm_Sec"
 
 [[social]]
 title = "skype"
@@ -48,4 +48,4 @@ link = "#"
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/richard-foster-security/"
