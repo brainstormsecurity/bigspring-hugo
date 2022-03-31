@@ -108,7 +108,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "blah blah blah "
+  content : "Get in touch so we can discuss your problems and formulate a plan to help."
   button:
     enable : true
     label : "Contact Us"
