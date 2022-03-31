@@ -17,7 +17,7 @@ feature:
       # feature item loop
     - name : "Expereienced Experts"
       icon : "fas fa-user-secret"
-      content : "Our security consultants are seasoned professionals with years of law enforcment, military or cyber experience. Understand what insider threats you can mitigate. "
+      content : "Our security consultants are seasoned professionals with years of law enforcment, military or cyber experience. We Understand what insider threats you can mitigate. "
 
     # feature item loop
     - name : "Training"
