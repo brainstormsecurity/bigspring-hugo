@@ -7,7 +7,7 @@ draft: false
 ---
 
 ### Why you should contact us!
-Ready to work with us? I'm sure you have some questions. Feel free to complete the contact form or email us. You can also call us on the phone. It would be great to discuss how we can help you with your security challenges. <br>Is your enquiry highly confidential? Make contact and we can switch to more secure encrypted communication to maintain security.
+Ready to work with us? I'm sure you have some questions. Feel free to complete the contact form or email us. You can also call us on the phone. It would be great to discuss how we can help you with your security challenges. <br>Is your enquiry highly confidential? Once you make contact, we can always switch to more secure encrypted communications to maintain security.
 
 * Phone: (+44) 020 8058 0047
 * Email us at the link below: 
