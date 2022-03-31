@@ -65,11 +65,18 @@ Our security experts will perform a series of tests to check whether your busine
         link : "contact"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "A discrete and proven social engineering testing company"
       images:
       - "images/shoulder surfing tran.gif"
       - "images/dumpster tran.gif"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge.
+Benefits of social engineering tests include:
+
+-Identify vulnerabilities relating to attacks that leverage people and process.
+-Understand the likely impact of an attacker that uses social engineering.
+-Gain insight into what people and process defences are currently working well.
+-Get assurance that includes consideration of real-world threats such as phishing.
+-Organisations that include social engineering threats in their assurance programme tend to receive greater insights into their overall information security posture. It is becoming increasingly common for assurance programmes to require that people and process are thoroughly tested on a regular basis, because that’s what attackers are targeting too."
       button:
         enable : true
         label : "Check it out"
