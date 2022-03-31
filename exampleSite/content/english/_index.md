@@ -3,7 +3,7 @@
 banner:
   title : "We can help solve your Physical Security threats, by testing your people and facilities.<br> We can also train your people to <br> change your security culture."
   image : "images/training.jpg"
-  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? <br> If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
+  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? <br /> If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
@@ -69,14 +69,7 @@ Our security experts will perform a series of tests to check whether your busine
       images:
       - "images/shoulder surfing tran.gif"
       - "images/dumpster tran.gif"
-      content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge.
-Benefits of social engineering tests include:
-
--Identify vulnerabilities relating to attacks that leverage people and process.
--Understand the likely impact of an attacker that uses social engineering.
--Gain insight into what people and process defences are currently working well.
--Get assurance that includes consideration of real-world threats such as phishing.
--Organisations that include social engineering threats in their assurance programme tend to receive greater insights into their overall information security posture. It is becoming increasingly common for assurance programmes to require that people and process are thoroughly tested on a regular basis, because that’s what attackers are targeting too."
+      content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge."
       button:
         enable : true
         label : "Check it out"
