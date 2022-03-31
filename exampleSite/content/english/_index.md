@@ -79,7 +79,7 @@ Our security experts will perform a series of tests to check whether your busine
     - title : "So what is a physical penetration test?"
       images:
       - "images/nervous lady.jpg"
-      content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. We do this using the same tools and techniques a real threat would.  We then give you a detailed report on exactly how we did it, and make recommendations on how prevent real attacks."
+      content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. We do this using the same tools and techniques a real threat actor would.  We then give you a detailed report on exactly how we did it, and make recommendations on how prevent real attacks."
       button:
         enable : true
         label : "Check it out"
@@ -88,7 +88,7 @@ Our security experts will perform a series of tests to check whether your busine
     # service item loop
     - title : "A security company standing different from others"
       images:
-      - "images/service-3.png"
+      - "images/vip.jpg"
       content : "We don't simulate or theorize what would happen. We will attempt to breach your physical security just like the bad guys. It can be easier than you may imagine. We figure out your most likely threats, then use the same methods they would. This leaves no guess work as to how your facility's security would hold up against a real intrusion by criminals or activists. We are experienced at testing the security of VIPs, heads of state and vetted secure facilities. Armed with this knowledge, you can adjust your security to match real world threats."
       button:
         enable : true
