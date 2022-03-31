@@ -107,7 +107,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "Ready to get started?"
-  image : "images/cta.svg"
+  image : "images/door.jpg"
   content : "Get in touch so we can discuss your problems and formulate a plan to help."
   button:
     enable : true
