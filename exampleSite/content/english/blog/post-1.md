@@ -1,6 +1,6 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
-date: 2020-04-18T10:07:21+06:00
+title: "World Back up Day"
+date: 2022-03-31T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -13,30 +13,25 @@ draft: false
 ---
 
 
-#### Heading example
+# Heading example
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Today is WorldBackupDay: the day to prevent data loss!
 
-# Heading 1 
+## WHAT IS A BACKUP?
+A backup is a copy of all your important files — for example, your family photos, home videos, documents and emails. Instead of storing it all in one place (like your computer or smartphone), you keep a copy of everything somewhere safe.
+ALRIGHT, I GET IT
+
+## BUT WHY SHOULD I BACKUP?
+Losing your files is way more common than you’d think.
+One small accident or failure could destroy all the important stuff you care about.
+
+Find out more on how to back up your critical files and take the pledge. 
+
+[https://worldbackupday.com] 
+
+#technology #data #cybersecurityawareness #cybersecurity
 <br>
 
-## Heading 2 
-
-<br>
-
-### Heading 3 
-
-<br>
-
-#### Heading 4 
-
-<br>
-
-##### Heading 5 
-
-<br>
-
-###### Heading 6
 
 
 <hr>
