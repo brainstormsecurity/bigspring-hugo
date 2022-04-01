@@ -3,7 +3,7 @@ logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "Brainstorm Security"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "https://formsubmit.co/0d626e80fc1b8a591a9117591c115597" # contact form works with https://formspree.io
