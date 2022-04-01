@@ -1,6 +1,6 @@
 ---
 title: "Training"
-subtitle: ""
+subtitle: "Cyber Security Awareness & Physical Security Training"
 # meta description
 description: "Cyber Security training services for your staff"
 draft: false
