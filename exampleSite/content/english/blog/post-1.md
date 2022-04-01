@@ -19,7 +19,7 @@ draft: false
 A backup is a copy of all your important files — for example, your family photos, home videos, documents and emails. Instead of storing it all in one place (like your computer or smartphone), you keep a copy of everything somewhere safe.
 ALRIGHT, I GET IT
 
-{{< vimeooutube 1272166 >}}
+{{< vimeo 1272166 >}}
 
 ### BUT WHY SHOULD I BACKUP?
 Losing your files is way more common than you’d think.
