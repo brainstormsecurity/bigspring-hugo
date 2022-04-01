@@ -4,7 +4,7 @@ subtitle: "Cyber Security Awareness & Physical Security Training"
 # meta description
 description: "Cyber Security training services for your staff"
 draft: false
-
+---
 basic:
   name : "Basic Plan"
   price: "$49"
@@ -58,4 +58,3 @@ call_to_action:
     enable : true
     label : "Contact Us"
     link : "contact"
----
