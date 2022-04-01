@@ -1,10 +1,9 @@
 ---
-title: "Pricing"
-subtitle: ""
+title: "Training"
+subtitle: "Cyber Security Awareness & Physical Security Training"
 # meta description
-description: "This is meta description"
+description: "Cyber Security training services for your staff"
 draft: false
-layout: "training"
 
 basic:
   name : "Basic Plan"
