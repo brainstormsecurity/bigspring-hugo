@@ -3,7 +3,11 @@
 banner:
   title : "We can help solve your Physical Security threats, by testing your people and facilities.<br> We can also train your people to <br> change your security culture."
   image : "images/training.jpg"
-  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? <br  /> If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
+  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? 
+  
+  <br/> 
+  
+  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
