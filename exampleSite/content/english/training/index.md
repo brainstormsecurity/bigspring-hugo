@@ -4,13 +4,13 @@ subtitle: "Cyber Security Awareness & Physical Security Training"
 # meta description
 description: "Cyber Security training services for your staff"
 # page image
-image: "images/blog/post-2.jpg"
+image: "images/training.jpg"
 draft: false
 
 ---
 ##### Image
 
-![image](../../images/blog/post-6.jpg)
+![image](../../images/training.jpg)
 
 
 #### Heading example
