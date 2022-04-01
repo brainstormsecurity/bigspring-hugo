@@ -10,9 +10,21 @@ url = "blog/"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing/"
 weight = 3
+name = "Services"
+hasChildren = true
+
+  [[main]]
+  parent = "Services"
+  name = "Security Testing"
+  url = "security-testing/"
+  weight = 1
+
+  [[main]]
+  parent = "Services"
+  name = "Cyber Awareness Training"
+  url = "training/"
+  weight = 2
 
 [[main]]
 name = "Contact"
