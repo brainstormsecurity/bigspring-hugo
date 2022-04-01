@@ -3,8 +3,6 @@ title: "Training"
 subtitle: "Cyber Security Awareness & Physical Security Training"
 # meta description
 description: "Cyber Security training services for your staff"
-# page image
-image: "images/training.jpg"
 draft: false
 
 ---
