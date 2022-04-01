@@ -8,6 +8,9 @@ image: "images/blog/post-2.jpg"
 draft: false
 
 ---
+##### Image
+
+![image](../../images/blog/post-6.jpg)
 
 
 #### Heading example
@@ -159,9 +162,6 @@ Markdown | Less | Pretty
 
 <hr>
 
-##### Image
-
-![image](../../images/blog/post-6.jpg)
 
 <hr>
 
