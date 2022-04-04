@@ -1,172 +1,38 @@
 ---
-title: "Data is a web-based dialer and practical CRM solution"
+title: "Instagram account takeover hacks on the rise"
 date: 2020-04-18T10:07:21+06:00
 # post image
 image: "images/blog/data.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "This is meta description"
+description: "Instagram account takeover hacks on the rise"
 # post draft
 draft: false
 ---
 
 
-#### Heading example
-
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1 
-<br>
-
-## Heading 2 
-
-<br>
-
-### Heading 3 
-
-<br>
-
-#### Heading 4 
-
-<br>
-
-##### Heading 5 
-
-<br>
-
-###### Heading 6
+Consumers are reporting a recent rise in Instagram account hack attempts, according to the Identity Theft Resource Center (ITRC). Victims find they are locked out of their accounts, and criminals are using these stolen Instas to set other digital traps. A hijacked account can be used to message followers and friends, for example, or can add legitimacy to a bogus post.  The ITRC says it saw four times the number of inquires about Instagram hacks from consumers in September than in a typical month.
 
 
-<hr>
+The best defense against an Instagram hack is to enable two-factor authentication. It’s pretty easy. If you haven’t delved into two-factor authentication yet, this warning from the ITRC is a good excuse to set it up.  You might think your little account full of baby pictures and flowers is of no use to a hacker, but you’re wrong. Hacked Instas fetch £45 each on the dark Web, says the IRTC, citing a Digital Shadows report.  They can be used for all kinds of mischief, so you really should protect your account now. Even if you don’t use it often.
 
-##### Emphasis
+And if you use Instagram to market a business or even a serious hobby, this warning deserves even more attention.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+There’s good news on the two-factor authentication front.  Two-factor use is surging. In a survey, the firm found 79 percent of users said they have used 2FA, up from 53 percent in 2019.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+It’s important to note that not all two-factor protection is the same.  Text-message-based security checks are certainly better than nothing, but criminals have tools to outfox that method. They intercept the texts, or they trick recipients into divulging them — that’s why many security texts now say clearly “DO NOT SHARE THIS CODE WITH ANYONE.”  An authentication app is far superior, like Google Authenticator, and I find them easier to use anyway. Enen better can be the use of a 2FA physical key like the Yubikey.
 
-Combined emphasis with **asterisks and _underscores_**.
+In a similar way, criminals are also creating fake double accounts — common on Facebook — in an attempt to trick users into following the imposter account. It’s pretty easy to steal a profile picture and some other images and set up a new account that mimics a legitimate one. The victim often doesn’t find out what’s happening until warned by friends.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+If you’ve already been a victim of an Instagram account takeover, the Identity Theft Resource Center has an excellent roundup of recovery steps.  I’ve republished them below, but visit the organization’s site for more. 
 
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
  
-```python
-s = "Python syntax highlighting"
-print s
-```
 
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Check your email account for a message from Instagram. If you received an email from security@mail.instagram.com that says your email address was changed, you might be able to undo this change by selecting “revert this change” in that message. If additional information was also changed (like your password), and you’re unable to change back your email address, request a login link or security code from Instagram.
+Request a login link from Instagram. To help Instagram confirm that you own the account, you can request that they send a login link to your email address or phone number. To request a login link:
+On the login screen, tap “Get help logging in” (Android) or “Forgot password” (iPhone).
+Enter the username, email address or phone number associated with your account, then tap “Next.” If you don’t know the username, email address or phone number associated with your account, tap “Need more help?” below the “Next” button and follow the on-screen instructions.
+Select either your email address or phone number, then tap “Send Login Link.”
+Click the login link in your email or a text message (SMS) and follow the on-screen instructions.
+Request a security code or support from Instagram. If you’re unable to recover your account with the login link sent to you, you may be able to request support for your hacked Instagram account. For more information on how to do this, visit Instagram’s Help Center for step-by-step instructions.
