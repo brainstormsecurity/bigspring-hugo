@@ -40,13 +40,13 @@ We can help solve these problems -
 
 <br>
 
-### Our petration testing workflow 
+### Our penetration testing workflow 
 
 ![image](../../images/PhysicalPentestworkflow.PNG)
 
 * Identify / Client Brief
 
-Make contact with us and we will discuss what your secxurity problems or issues are. We listen to what you want and you stay in control. We will agree a scope of the testing and sign an agreement to ensure both parties know what will be tested. We also have NDA (Non Disclosure Agreements) that can be prepared to allow a free and open conversation to your security requirements. We will agree what can and cannot be done or taken during the assessment.
+Make contact with us and we will discuss what your security problems or issues are. We listen to what you want and you stay in control. We will agree a scope of the testing and sign an agreement to ensure both parties know what will be tested. We also have NDA (Non Disclosure Agreements) that can be prepared to allow a free and open conversation to your security requirements. We will agree what can and cannot be done, or taken (and returned) during the assessment.
 
 * Information Gathering
 
