@@ -6,17 +6,10 @@ description: "Cyber Security training services for your staff"
 draft: false
 
 ---
-##### Image
+
 
 ![image](../../images/training.jpg)
 
-
-#### Heading example
-
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1 
-<br>
 
 ## Heading 2 
 

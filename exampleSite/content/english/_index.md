@@ -31,7 +31,7 @@ feature:
     # feature item loop
     - name : "Clear Reports"
       icon : "fas fa-file-alt"
-      content : "Following our assessments. We provide clear detailed reports of all our findings, including any recommendations, physical or traing improvements for you."
+      content : "Following our assessments. We provide clear detailed reports of all our findings, including any recommendations, physical or training improvements for you."
       
     # feature item loop
     - name : "Consultation"

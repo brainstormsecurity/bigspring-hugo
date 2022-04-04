@@ -6,40 +6,51 @@ description: "Social Engineering & Physical Security Testing services for your s
 draft: false
 
 ---
-##### Image
+
 
 ![image](../../images/ID.jpg)
 
 
-#### Heading example
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1 
-<br>
-
-## Heading 2 
+## Social Engineering & Physical Security Testing
 
 <br>
 
-### Heading 3 
+### Why do I need to test my physical security?
 
 <br>
 
-#### Heading 4 
+You spend a lot of money on security. This will involve the physical security of your buildings and facilities. You may have high security fencing, deadbolt door locks, CCTV cameras, intrusion detection systems, alarms, security guards, patrol dogs, HID entry cards, encrypton of data, ID badges, biometric entry systems to name but a few security options. Your current security maybe providing the best security for you, your family or your business assets. All of these can be very good at protecting what is important to you, **but are you really protected?** Often the weakest link is the human factor. The staff member who could be taken in by a confidence trickster to gain access to your facility. Maybe the offender will just trick the staff member to transfer your money to another account controlled by the offenders? 
 
 <br>
 
-##### Heading 5 
+### Have you ever tested your security systems and protocols to see if they really work? 
 
 <br>
 
-###### Heading 6
-
+We have the knowledge and experience of decades in polcing, walking the streets at night checking if doors are closed and locked, attending real life crime scences, knowing how real criminals operate and the (MO) modus operandi criminals use. We have direct experence of dealing with human intelligence sources and speaking with criminals and bad actors as to how and why they would attack your assets. How offenders negotiate in kidnaps and randsomware incidents.
 
 <hr>
 
-##### Emphasis
+### We can test your physical security and human asssets 
+
+We can help solve these problems - 
+* knowing is your security budget being well spent? 
+* Am I getting a good (ROI) Return On Investment?
+
+<br>
+
+### Our petration testing workflow 
+
+![image](../../images/Physical Pen test workflow.PNG)
+
+* Identify / Client Brief
+* Information Gathering
+* Reconnaissance
+* Physical Penetration Test
+* Report & Recommendations
+
+
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
