@@ -42,7 +42,7 @@ We can help solve these problems -
 
 ### Our petration testing workflow 
 
-![image](../../images/Physical Pen test workflow.PNG)
+![image](../../images/PhysicalPentestworkflow.PNG)
 
 * Identify / Client Brief
 * Information Gathering
