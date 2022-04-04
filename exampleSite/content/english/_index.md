@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "We can help solve your Physical Security threats, by testing your people and facilities.<br> We can also train your people to <br> change your security culture."
+  title : "We can help solve your physical security threats, by testing & training your people and facilities.<br>  <br>Helping change your security culture."
   image : "images/camera.jpg"
   content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? 
   
