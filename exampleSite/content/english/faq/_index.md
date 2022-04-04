@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 subtitle: ""
 # meta description
 description: "This is meta description"
-draft: false
+draft: true
 ---
 
 
