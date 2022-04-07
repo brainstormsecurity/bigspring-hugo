@@ -7,8 +7,8 @@ draft: false
 ---
 
 
-{{< faq "Will updates also be free?" >}}
-Lorem, [link](https://examplesite.com) _ipsum_ dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "During testing, Will you remove items from our facility?" >}}
+Do not worry, we would take nothing from your premises without your consent. We work with you before any testing takes place to iron out any potential problems before they occur. Listening to any of your concerns we will suggest the best course of action for your test and provide a written scope of work not all parties will sign before the testing takes place. During some previous physical penetration tests we have conducted, we have taken items of uniform, electronic devices, keys and ID badges to assist the penetration tester. This helps us to fully report to the client and explain how these items if not protected, can be used against you. Of course, any items removed are all returned at the end of the test.
 {{</ faq >}}
 
 {{< faq "Discounts for students and Non Profit Organizations?" >}}
