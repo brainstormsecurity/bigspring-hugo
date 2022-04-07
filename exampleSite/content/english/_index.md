@@ -76,7 +76,7 @@ Our security experts will perform a series of tests to check whether your busine
       content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge."
       button:
         enable : true
-        label : "Check out our training services "
+        label : "Check out our training services"
         link : "training"
         
     # service item loop
@@ -96,7 +96,7 @@ Our security experts will perform a series of tests to check whether your busine
       content : "We don't simulate or theorize what would happen. We will attempt to breach your physical security just like the bad guys. It can be easier than you may imagine. We figure out your most likely threats, then use the same methods they would. This leaves no guess work as to how your facility's security would hold up against a real intrusion by criminals or activists. We are experienced at testing the security of VIPs, heads of state and vetted secure facilities. Armed with this knowledge, you can adjust your security to match real world threats."
       button:
         enable : true
-        label : "Check it out"
+        label : "Curious to know more?"
         link : "security-testing"
         
 ################### Screenshot ########################
