@@ -7,7 +7,7 @@ banner:
   
   <br/> 
   
-  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
+  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
@@ -76,8 +76,8 @@ Our security experts will perform a series of tests to check whether your busine
       content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "Check out our training services"
+        link : "training"
         
     # service item loop
     - title : "So what is a physical penetration test?"
@@ -86,8 +86,8 @@ Our security experts will perform a series of tests to check whether your busine
       content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. We do this using the same tools and techniques a real threat actor would.  We then give you a detailed report on exactly how we did it, and make recommendations on how prevent real attacks."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+       label : "Find out more about our social engineering penetration tests"
+        link : "security-testing"
         
     # service item loop
     - title : "A security company standing different from others"
@@ -97,7 +97,7 @@ Our security experts will perform a series of tests to check whether your busine
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "security-testing"
         
 ################### Screenshot ########################
 screenshot:
