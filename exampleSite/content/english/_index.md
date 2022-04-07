@@ -76,7 +76,7 @@ Our security experts will perform a series of tests to check whether your busine
       content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge."
       button:
         enable : true
-        label : "Check out our training services"
+        label : "Check out our training services "
         link : "training"
         
     # service item loop
