@@ -86,7 +86,7 @@ Our security experts will perform a series of tests to check whether your busine
       content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. We do this using the same tools and techniques a real threat actor would.  We then give you a detailed report on exactly how we did it, and make recommendations on how prevent real attacks."
       button:
         enable : true
-       label : "Find out more about our social engineering penetration tests"
+        label : "Find out more about our social engineering penetration tests"
         link : "security-testing"
         
     # service item loop
