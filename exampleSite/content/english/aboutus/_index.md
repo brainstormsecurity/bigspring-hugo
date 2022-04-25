@@ -8,7 +8,7 @@ draft: false
 ####################### Banner #########################
 banner:
   title : "About Us<br>  <br> Helping transform your security culture."
-  image : "images/camera.jpg"
+  image : "images/passion.jpg"
   content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? 
   
   <br/> 
@@ -18,42 +18,6 @@ banner:
     enable : true
     label : "Contact Us"
     link : "contact"
-
-##################### Feature ##########################
-feature:
-  enable : true
-  title : "Start securing your facilities today"
-  feature_item:
-      # feature item loop
-    - name : "Expereienced Experts"
-      icon : "fas fa-user-secret"
-      content : "Our security consultants are seasoned professionals with years of law enforcment, military or cyber experience. We Understand what insider threats you can mitigate. "
-
-    # feature item loop
-    - name : "Training"
-      icon : "fas fa-user-graduate"
-      content : "We believe strongly in training people to protect against threats. We can help train your staff to thwart social engineering, cyber and real world threats."
-      
-    # feature item loop
-    - name : "Clear Reports"
-      icon : "fas fa-file-alt"
-      content : "Following our assessments. We provide clear detailed reports of all our findings, including any recommendations, physical or training improvements for you."
-      
-    # feature item loop
-    - name : "Consultation"
-      icon : "fas fa-user-clock"
-      content : "Understanding your requirements first during consultation, helps us create tailor-made physical penetration tests, including scope of work and costs."
-      
-    # feature item loop
-    - name : "Insider Threats"
-      icon : "fas fa-address-card"
-      content : "It is a common requirement of information security programs to replicate the threat of social engineering attacks through regular penetration tests."
-      
-      
-    # feature item loop
-    - name : "Specialists"
-      icon : "fas fa-door-open"
-      content : "With highly experienced consultants, who have been deployed against highly secure individuals and premises. We can show you how to improve your security."
       
 
 
