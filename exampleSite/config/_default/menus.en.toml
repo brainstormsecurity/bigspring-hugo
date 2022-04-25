@@ -43,25 +43,25 @@ url = "#"
 
 [[footer_left]]
 name = "Quick Start"
-url = "#"
+url = "contact/"
 
 [[footer_left]]
-name = "Pricing"
-url = "pricing/"
+name = "Blog"
+url = "blog/"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing/"
+name = "Phishing Services"
+url = "phishing/"
 
 [[footer_middle]]
-name = "Platform"
-url = "#"
+name = "Training"
+url = "training/"
 
 [[footer_middle]]
-name = "Features"
-url = "#"
+name = "Security Testing"
+url = "security-testing/"
 
 # footer menu right
 [[footer_right]]
