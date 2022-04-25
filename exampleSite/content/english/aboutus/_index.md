@@ -7,13 +7,18 @@ draft: false
 
 ####################### Banner #########################
 banner:
-  title : "About Us<br>  <br> Helping transform your security culture."
+  title : "About Us<br>  <br> Why was Brainstorm Security founded?"
   image : "images/passion.jpg"
-  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? 
+  content : "The founder Richard had always wanted to be a police officer, ever since being a little boy. He grew up and took on a number of diffrent jobs from office equipment sales, to working for local govenment. A year or so before the 'DotCom boom' of the late 80s, and having a life long interest in computers, he was offered two diffrent jobs as a computer programmer. However, he passed up on these amazing opportunities to earn an extra £30 a week 'beer money' working in an office. As we grow up we can all look back and consider 'what if?' in our life choices.
   
   <br/> 
   
-  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
+  Richard travelled and worked abroad, returning to join the police in the UK. He had an amazing career for nearly three decades. He worked in forward facing uniformed police roles, dealing with people from all parts of society, from the homeless to high society, which gave him an amazing experience of communicating with people. He mastered his skills of dealing with incidents under pressure, and with people often in crisis, that often resulted in defusing conflict situations. Many critical incidents would often involve 'life or death' decision making. He took this in his stride, following the policing principles 
+  *protecting life and property
+  *preserving order
+  *preventing the commission of offences
+  *bringing offenders to justice.
+ "
   button:
     enable : true
     label : "Contact Us"
