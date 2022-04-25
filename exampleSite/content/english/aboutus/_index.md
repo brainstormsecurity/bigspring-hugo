@@ -13,13 +13,7 @@ banner:
   
   <br>
   
-  Richard travelled and worked abroad, returning to join the police in the UK. He enjoyed an amazing career for nearly three decades. He worked in forward facing uniformed police roles, dealing with people from all parts of society, from the homeless to high society, which gave him an amazing experience of communicating with people. He mastered his skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve 'life or death' decision making. He took this in his stride, following the core policing principles 
-
-  * protecting life and property
-  * preserving order
-  * preventing the commission of offences
-  * bringing offenders to justice.
- "
+  Richard travelled and worked abroad, returning to join the police in the UK. He enjoyed an amazing career for nearly three decades. He worked in forward facing uniformed police roles, dealing with people from all parts of society, from the homeless to high society, which gave him an amazing experience of communicating with people. He mastered his skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve 'life or death' decision making. He took this in his stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences, bringing offenders to justice."
   button:
     enable : true
     label : "Contact Us"
