@@ -9,15 +9,16 @@ draft: false
 banner:
   title : "About Us<br>  <br> Why was Brainstorm Security founded?"
   image : "images/passion.jpg"
-  content : "The founder Richard had always wanted to be a police officer, ever since being a little boy. He grew up and took on a number of diffrent jobs from office equipment sales, to working for local govenment. A year or so before the 'DotCom boom' of the late 80s, and having a life long interest in computers, he was offered two diffrent jobs as a computer programmer. However, he passed up on these amazing opportunities to earn an extra £30 a week 'beer money' working in an office. As we grow up we can all look back and consider 'what if?' in our life choices.
+  content : "The founder Richard had always wanted to be a police officer, ever since being a little boy. He grew up and took on a number of diffrent jobs from office equipment sales, to working for local govenment. A year or so before the 'DotCom boom' of the late 80s, and having a life long interest in computers, he was offered two different jobs as a computer programmer. However, he passed up on these amazing opportunities to earn an extra £30 a week 'beer money' working in an office. As we grow up we can all look back and consider 'what if?' in our life choices.
   
-  <br/> 
+  <br>
   
-  Richard travelled and worked abroad, returning to join the police in the UK. He had an amazing career for nearly three decades. He worked in forward facing uniformed police roles, dealing with people from all parts of society, from the homeless to high society, which gave him an amazing experience of communicating with people. He mastered his skills of dealing with incidents under pressure, and with people often in crisis, that often resulted in defusing conflict situations. Many critical incidents would often involve 'life or death' decision making. He took this in his stride, following the policing principles 
-  *protecting life and property
-  *preserving order
-  *preventing the commission of offences
-  *bringing offenders to justice.
+  Richard travelled and worked abroad, returning to join the police in the UK. He enjoyed an amazing career for nearly three decades. He worked in forward facing uniformed police roles, dealing with people from all parts of society, from the homeless to high society, which gave him an amazing experience of communicating with people. He mastered his skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve 'life or death' decision making. He took this in his stride, following the core policing principles 
+
+  * protecting life and property
+  * preserving order
+  * preventing the commission of offences
+  * bringing offenders to justice.
  "
   button:
     enable : true
