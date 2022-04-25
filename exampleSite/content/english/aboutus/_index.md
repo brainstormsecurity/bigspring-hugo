@@ -4,7 +4,7 @@ subtitle: ""
 # meta description
 description: "About us and our story"
 draft: false
----
+
 ####################### Banner #########################
 banner:
   title : "About Us<br>  <br> Helping transform your security culture."
@@ -124,3 +124,4 @@ call_to_action:
     label : "Contact Us"
     link : "contact"
 
+---
