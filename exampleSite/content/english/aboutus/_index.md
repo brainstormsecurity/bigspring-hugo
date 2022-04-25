@@ -2,7 +2,7 @@
 title: "About Us"
 subtitle: ""
 # meta description
-description: "About us and our story"
+description: "About us - our story"
 draft: false
 
 ####################### Banner #########################
