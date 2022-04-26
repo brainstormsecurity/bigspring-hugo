@@ -31,6 +31,7 @@ service:
       images:
       - "images/police.jpg"
       content : "I travelled and worked abroad, returning to join the police in the UK. I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. <br><br> 
+
       Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
       button:
         enable : true
@@ -50,10 +51,12 @@ service:
         link : "training"
         
     # service item loop
-    - title : "Why not hire the A Team?"
+    - title : "Experienced penetration testers"
       images:
-      - "images/ateam.png"
-      content : "Often working in a small team, it would sometimes feel like the ‘A’ team. Our 80’s TV heroes motto was, ‘If you have a problem, if no one else can help, and if you can find them.... maybe you can hire the A-Team.’ We would often get asked for ideas and strategies how to catch some of the most dangerous and clever criminals. We would come up with a plan, put it into action and successfully bring to justice, the ‘Mr Bigs’ of the criminal underworld. (Except we would not use any Gaffer tape or build a tank in deploying our plans, unlike the real ‘A’ team)."
+      - "images/story.jpg"
+      content : "My career has enabled me to obtain a broad and secure skills base, including OSINT (Open-Source Intelligence Gathering), Social Engineering and HUMINT (Human Intelligence). I have gained a large amount of experience planning and conducting highly successful physical penetration tests on some very secure government premises. My physical penetration testing experience has also included large scale music and sporting events. Some events have had VIP and key dignitaries attending with their own armed security details. As a qualified trainer and assessor, I have trained many ‘police only’ courses and have been a subject matter expert, delivering lessons at the College of Policing. <br><br>
+      
+      Some of my key achievements include, representing my organisation when supporting and training an international police force. Working with other UK Government agencies and other international law enforcement agencies on active investigations. Creating and leading one of the UKs most effective, specialist online investigation teams to bring to justice many cyber criminals and child sex offenders."
       button:
         enable : true
         label : "Find out more about our social engineering penetration tests"
@@ -63,9 +66,7 @@ service:
     - title : "Why start a security company?"
       images:
       - "images/biz.jpg"
-      content : "My career has enabled me to obtain a broad and secure skills base, including OSINT (Open-Source Intelligence Gathering), Social Engineering and HUMINT (Human Intelligence). I have gained a large amount of experience planning and conducting highly successful physical penetration tests on some very secure government premises. My physical penetration testing experience has also included large scale music and sporting events. Some events have had VIP and key dignitaries attending with their own armed security details. As a qualified trainer and assessor, I have trained many ‘police only’ courses and have been a subject matter expert, delivering lessons at the College of Policing. <br><br>
-      
-      Some of my key achievements include, representing my organisation when supporting and training an international police force. Working with other UK Government agencies and other international law enforcement agencies on active investigations. Creating and leading one of the UKs most effective, specialist online investigation teams to bring to justice many cyber criminals and child sex offenders.My personal journey took a sharp turn during the Covid Lockdown of 2020/21. I had been dreaming of setting up a company to help people and companies, using my security and specialist cyber skills that I now possessed. However, my police career was cut short when I suffered a sudden life-threatening medical emergency that nearly killed me. (Feel free to ask me about this particularly challenging part of my life over a coffee…. or beer 😀) Coupled with the recent loss of a friend and family member, I knew now was the time to start. Life was too short.<br><br>
+      content : "My personal journey took a sharp turn during the Covid Lockdown of 2020/21. I had been dreaming of setting up a company to help people and companies, using my security and specialist cyber skills that I now possessed. However, my police career was cut short when I suffered a sudden life-threatening medical emergency that nearly killed me. (Feel free to ask me about this particularly challenging part of my life over a coffee…. or beer 😀) Coupled with the recent loss of a friend and family member, I knew now was the time to start. Life was too short.<br><br>
 
       Never being one to shy away from a challenge, I started the business to do things differently in the world of security. I wanted to disrupt the status quo, to show that security awareness can be delivered another way, and to make life better for people as I had done while working in law enforcement. I was fed up with large companies just selling a ‘compliance solution’ and not dealing with truly improving security. <br><br>
 
@@ -95,7 +96,7 @@ call_to_action:
   It’s Brainstorm Security Ltd.’s mission to help, rather than our wealth, that’s the rallying cry! We don’t use assessments of your security to highlight incorrect practices so staff can be punished or reprimanded. We all make mistakes…. but we can all learn from mistakes too! We educate in a totally inclusive manner, allowing everyone to learn in a relaxed and fun way.
   We are also able to scale the training, post security assessment, by using our online training solutions to accommodate large and enterprise sized companies. <br><br>
 
-  Me and my team look forward to working with you in the future, and learning all about your achievements."
+  My team and I, look forward to working with you in the future, and learning all about your achievements."
   button:
     enable : true
     label : "Contact Us"
