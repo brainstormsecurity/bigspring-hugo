@@ -1,11 +1,11 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "We can help solve your physical security threats, by testing your facilities & training your people.<br>  <br> Helping transform your security culture."
+  title : "We can help solve your physical security threats, by testing your facilities & training your people.<br> <br> Helping transform your security culture."
   image : "images/camera.jpg"
   content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? 
   
-  <br/> 
+  <br><br>
   
   If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
@@ -61,7 +61,7 @@ service:
       - "images/Social engineer tran.gif"
       - "images/Vishing tran.png"
       - "images/tailgating tran.gif"
-      content : "With indepth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br/>
+      content : "With indepth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br><br>
 Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then condsider how you can do things better."
       button:
         enable : true
