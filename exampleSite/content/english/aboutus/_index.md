@@ -73,7 +73,7 @@ service:
 screenshot:
   enable : true
   title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
+  image : "images/secpeople.png"
 
   
 
