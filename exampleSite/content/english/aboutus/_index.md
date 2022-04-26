@@ -29,7 +29,7 @@ service:
     - title : "We have decades of real world law enforcment experience"
       images:
       - "images/police.jpg"
-      content : "I travelled and worked abroad, returning to join the police in the UK. There I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
+      content : "I travelled and worked abroad, returning to join the police in the UK. I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
       button:
         enable : true
         label : "Arrange a free consultation."
@@ -39,7 +39,7 @@ service:
     - title : "A proven track record of dealing with serious crime"
       images:
       - "images/story.jpg"
-      content : "I spent the last two decades working on CID, major crime and in covert roles dealing with the most serious of offences. This included a broad range of crimes such as Murder, Kidnap, Child sexual exploitation, Counter Terrorism, Ransomware, Cryptocurrency and bitcoin enabled crime, Dark web enabled crime, Extortion, Hacking related offences and threat assessments relating to (PII) Personal Identifiable Information/Data sold or leaked on the internet, Robbery, Burglary, Theft, Corruption and misconduct, Sexual offences, Car crime, Drug importation and supply as just some examples. "
+      content : "I spent the last two decades working on CID, major crime and in covert roles dealing with the most serious of offences. This included a broad range of crimes such as Murder, Kidnap, Child sexual exploitation, Counter Terrorism, Ransomware, Cryptocurrency and Bitcoin enabled crime, Dark web enabled crime, Extortion, Hacking related offences and threat assessments relating to (PII) Personal Identifiable Information/Data sold or leaked on the internet, Robbery, Burglary, Theft, Corruption and misconduct, Sexual offences, Car crime, Drug importation and supply as just some examples. "
       button:
         enable : true
         label : "Check out our training services"
@@ -48,7 +48,7 @@ service:
     # service item loop
     - title : "Why not hire the A Team?"
       images:
-      - "images/nervous lady.jpg"
+      - "{{< youtube Cn6kEsloMdE >}}
       content : "Often working in a small team, it would sometimes feel like the ‘A’ team. Our 80’s TV heroes motto was, ‘If you have a problem, if no one else can help, and if you can find them.... maybe you can hire the A-Team.’ We would often get asked for ideas and strategies how to catch some of the most dangerous and clever criminals. We would come up with a plan, put it into action and successfully bring to justice, the ‘Mr Bigs’ of the criminal underworld. (Except we would not use any Gaffer tape or build a tank in deploying our plans, unlike the real ‘A’ team)."
       button:
         enable : true
