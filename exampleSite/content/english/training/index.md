@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.8
 title: "Training"
 subtitle: "Cyber Security Awareness & Physical Security Training"
 # meta description
