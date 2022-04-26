@@ -5,7 +5,7 @@ sitemap:
 title: "About Us"
 subtitle: ""
 # meta description
-description: "About us - our story"
+description: "About us - our founders story"
 draft: false
 
 ####################### Banner #########################
@@ -13,8 +13,8 @@ banner:
   title : "About Us<br>  <br> Why was Brainstorm Security founded?"
   image : "images/passion.jpg"
   content : "Hello, my name is Richard, and I am the founder of Brainstorm Security Ltd. This is a shortened version of my life and journey in how I created this company.<br><br>
-  
-I had always wanted to be a police officer, ever since being a little boy. I grew up and took on a number of different jobs, from office equipment sales, to working for local government. A year or so before the ‘Dot-com boom’ of the late 80s, and having a lifelong interest in computers, I was offered two different jobs as a computer programmer. However, I passed up on these amazing opportunities to earn an extra £30 a week ‘beer money’ working in an office. As we grow up, we can all look back and consider ‘what if?’ in our life choices.  <br/>  I travelled and worked abroad, returning to join the police in the UK. There I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
+
+I had always wanted to be a police officer, ever since being a little boy. I grew up and took on a number of different jobs, from office equipment sales, to working for local government. A year or so before the ‘Dot-com boom’ of the late 80s, and having a lifelong interest in computers, I was offered two different jobs as a computer programmer. However, I passed up on these amazing opportunities to earn an extra £30 a week ‘beer money’ working in an office. As we grow up, we can all look back and consider ‘what if?’ in our life choices.  <br><br>  I travelled and worked abroad, returning to join the police in the UK. There I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
   button:
     enable : true
     label : "Contact Us"
@@ -30,7 +30,8 @@ service:
     - title : "We have decades of real world law enforcment experience"
       images:
       - "images/police.jpg"
-      content : "I travelled and worked abroad, returning to join the police in the UK. I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
+      content : "I travelled and worked abroad, returning to join the police in the UK. I enjoyed an amazing career for nearly three decades. I worked in public facing uniformed police roles. I would walk the beat while checking if doors were locked on commercial premises in the middle of the night. I had exposure to people from all parts of society, from the homeless to high society, which gave me an amazing experience of communicating with people. <br><br> 
+      Furthermore, I mastered my skills of dealing with incidents under pressure, and with people often in crisis, victims, offenders, witnesses and everyone else associated with the criminal justice system. Many critical incidents would often involve ‘life or death’ decision-making. I took this in my stride, following the core policing principles, protecting life and property, preserving order, preventing the commission of offences and bringing offenders to justice."
       button:
         enable : true
         label : "Arrange a free consultation."
@@ -49,7 +50,7 @@ service:
     # service item loop
     - title : "Why not hire the A Team?"
       images:
-      - ""
+      - "images/ateam.jpg"
       content : "Often working in a small team, it would sometimes feel like the ‘A’ team. Our 80’s TV heroes motto was, ‘If you have a problem, if no one else can help, and if you can find them.... maybe you can hire the A-Team.’ We would often get asked for ideas and strategies how to catch some of the most dangerous and clever criminals. We would come up with a plan, put it into action and successfully bring to justice, the ‘Mr Bigs’ of the criminal underworld. (Except we would not use any Gaffer tape or build a tank in deploying our plans, unlike the real ‘A’ team)."
       button:
         enable : true
@@ -81,7 +82,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "Why start a security company?"
-  image : "images/everyone.jpg"
+  image : "images/biz.jpg"
   content : "My personal journey took a sharp turn during the Covid Lockdown of 2020/21. I had been dreaming of setting up a company to help people and companies, using my security and specialist cyber skills that I now possessed. However, my police career was cut short when I suffered a sudden life-threatening medical emergency that nearly killed me. (Feel free to ask me about this particularly challenging part of my life over a coffee…. or beer 😀) Coupled with the recent loss of a friend and family member, I knew now was the time to start. Life was too short.<br><br>
   Never being one to shy away from a challenge, I started the business to do things differently in the world of security. I wanted to disrupt the status quo, to show that security awareness can be delivered another way, and to make life better for people as I had done while working in law enforcement. I was fed up with large companies just selling a ‘compliance solution’ and not dealing with truly improving security. <br><br>
   Brainstorm Security was created small and agile, to help supply security training, awareness and solutions you really require. The company was created to listen to the needs of the customers. Like the ‘A’ team ‘If you have a problem’, we could think creatively and work with you to help solve your security problem.<br><br>
