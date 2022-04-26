@@ -92,4 +92,14 @@ call_to_action:
     label : "Contact Us"
     link : "contact"
 
+    ##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Why start a security company?"
+  image : "images/biz.jpg"
+  content : "My personal journey took a sharp turn during the Covid Lockdown of 2020/21. I had been dreaming of setting up a company to help people and companies, using my security and specialist cyber skills that I now possessed. However, my police career was cut short when I suffered a sudden life-threatening medical emergency that nearly killed me. (Feel free to ask me about this particularly challenging part of my life over a coffee…. or beer 😀) Coupled with the recent loss of a friend and family member, I knew now was the time to start. Life was too short.<br><br>
+  Never being one to shy away from a challenge, I started the business to do things differently in the world of security. I wanted to disrupt the status quo, to show that security awareness can be delivered another way, and to make life better for people as I had done while working in law enforcement. I was fed up with large companies just selling a ‘compliance solution’ and not dealing with truly improving security. <br><br>
+  Brainstorm Security was created small and agile, to help supply security training, awareness and solutions you really require. The company was created to listen to the needs of the customers. Like the ‘A’ team ‘If you have a problem’, we could think creatively and work with you to help solve your security problem.<br><br>
+  The company would ‘specialise’ in social engineering and hacking the human. By testing staff and then using those real-life examples of how we infiltrated your security, this is an effective learning model that will grab your people’s attention. Coupled with many years of experience, in interacting with real criminals and investigating real crime scenes, we can bring a ‘real’ element to the assessments and training, that other companies cannot supply when using just tech / training or salespeople to deliver your solutions."
+
 ---
