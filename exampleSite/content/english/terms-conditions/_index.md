@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.2
 title: "Terms of Service"
 subtitle: ""
 # meta description

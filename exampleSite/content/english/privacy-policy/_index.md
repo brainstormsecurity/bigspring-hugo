@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.1
 title: "Privacy & Policy"
 subtitle: ""
 # meta description
