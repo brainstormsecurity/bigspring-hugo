@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.6
 title: "Frequently Asked Questions"
 subtitle: ""
 # meta description

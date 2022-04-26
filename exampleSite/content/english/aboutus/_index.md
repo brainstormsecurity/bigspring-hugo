@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.7
 title: "About Us"
 subtitle: ""
 # meta description

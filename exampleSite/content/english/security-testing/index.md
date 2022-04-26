@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.8
 title: "Physical Security Testing"
 subtitle: "Social Engineering & Physical Security Testing"
 # meta description

@@ -1,4 +1,7 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 0.5
 title: "Contact Us"
 subtitle: ""
 # meta description
