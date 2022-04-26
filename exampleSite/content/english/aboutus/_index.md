@@ -48,7 +48,7 @@ service:
     # service item loop
     - title : "Why not hire the A Team?"
       images:
-      - "images/nervous lady.jpg"
+      - ""
       content : "Often working in a small team, it would sometimes feel like the ‘A’ team. Our 80’s TV heroes motto was, ‘If you have a problem, if no one else can help, and if you can find them.... maybe you can hire the A-Team.’ We would often get asked for ideas and strategies how to catch some of the most dangerous and clever criminals. We would come up with a plan, put it into action and successfully bring to justice, the ‘Mr Bigs’ of the criminal underworld. (Except we would not use any Gaffer tape or build a tank in deploying our plans, unlike the real ‘A’ team)."
       button:
         enable : true
