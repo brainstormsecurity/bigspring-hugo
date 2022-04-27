@@ -80,9 +80,9 @@ service:
         
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
-  image : "images/secpeople.png"
+  image : "images/great.jpg"
 
   
 
