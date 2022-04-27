@@ -60,7 +60,7 @@ service:
 
       Never being one to shy away from a challenge, I started the business to do things differently in the world of security. I wanted to disrupt the status quo, to show that security awareness can be delivered another way, and to make life better for people as I had done while working in law enforcement. I was fed up with large companies just selling a ‘compliance solution’ and not dealing with truly improving security. <br><br>
 
-      Brainstorm Security was created small and agile, to help supply security training, awareness and solutions you really require. The company was created to listen to the needs of the customers. Like the ‘A’ team ‘If you have a problem’, we could think creatively and work with you to help solve your security problem.<br><br>"
+      Brainstorm Security was created small and agile, to help supply security training, awareness and solutions you really require. The company was created to listen to the needs of the customers. Just like the ‘A’ teams introduction, ‘If you have a problem...’ we can work with you and think creatively, to help solve your security problems.<br><br>"
       button:
         enable : true
         label : "Find out more about our social engineering penetration tests"
@@ -72,7 +72,7 @@ service:
       - "images/great.jpg"
       content : "The company would ‘specialise’ in social engineering and hacking the human. By testing staff and then using those real-life examples of how we infiltrated your security, this is an effective learning model that will grab your people’s attention. Coupled with many years of experience, in interacting with real criminals and investigating real crime scenes, we can bring a ‘real’ element to the assessments and training, that other companies cannot supply when using just tech / training or salespeople to deliver your solutions.<br><br>
       
-      Our aim is to educate people how to protect themselves on a personal level, from the ‘bad guys’. Helping them at being better at identifying conmen and unauthorised persons. Spotting physical security weaknesses at premises and identifying possible ways criminals could commit cyber-crimes against them. I believe once everyone is trained to be ‘security aware’ on a personal level, often using free and simple to use methods, they will automatically bring this change to the security culture of your business. It is a solution where everyone benefits with both your staff and your company benefiting. We aim at empowering staff to know how to deal with suspicious incidents and helping companies create plans and policies to effectively help mitigate these risks."
+      Our aim is to educate people how to protect themselves on a personal level, from the ‘bad guys’. Helping them at being better at identifying conmen and unauthorised persons. Spotting physical security weaknesses at premises and identifying possible ways criminals could commit cyber-crimes against them. I believe once everyone is trained to be ‘security aware’ on a personal level, often using free and simple to use methods, they will automatically bring this change to the security culture of your business. It is a solution where everyone benefits.Your staff are more secure at home and when they are at work. We aim at empowering staff to know how to deal with suspicious incidents and helping companies create plans and policies to effectively help mitigate these risks."
       button:
         enable : true
         label : "Curious to know more?"
