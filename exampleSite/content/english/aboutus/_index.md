@@ -67,9 +67,9 @@ service:
         link : "security-testing"
         
     # service item loop
-    - title : "Why start a security company?"
+    - title : "We specialise in social engineering and hacking the human"
       images:
-      - "images/biz.jpg"
+      - "images/great.jpg"
       content : "The company would ‘specialise’ in social engineering and hacking the human. By testing staff and then using those real-life examples of how we infiltrated your security, this is an effective learning model that will grab your people’s attention. Coupled with many years of experience, in interacting with real criminals and investigating real crime scenes, we can bring a ‘real’ element to the assessments and training, that other companies cannot supply when using just tech / training or salespeople to deliver your solutions.<br><br>
       
       Our aim is to educate people how to protect themselves on a personal level, from the ‘bad guys’. Helping them at being better at identifying conmen and unauthorised persons. Spotting physical security weaknesses at premises and identifying possible ways criminals could commit cyber-crimes against them. I believe once everyone is trained to be ‘security aware’ on a personal level, often using free and simple to use methods, they will automatically bring this change to the security culture of your business. It is a solution where everyone benefits with both your staff and your company benefiting. We aim at empowering staff to know how to deal with suspicious incidents and helping companies create plans and policies to effectively help mitigate these risks."
