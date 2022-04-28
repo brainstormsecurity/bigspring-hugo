@@ -3,11 +3,11 @@
 banner:
   title : "We can help solve your physical security threats, by testing your facilities & training your people.<br> <br> Helping transform your security culture."
   image : "images/camera.jpg"
-  content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? 
+  content : "What would happen if your premises or business had a physical intruder gain access? What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal Risks? 
   
   <br><br>
   
-  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
+  If you are looking to improve or test your Physical security or as part of your ongoing cybersecurity threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
@@ -21,7 +21,7 @@ feature:
       # feature item loop
     - name : "Expereienced Experts"
       icon : "fas fa-user-secret"
-      content : "Our security consultants are seasoned professionals with years of law enforcment, military or cyber experience. We Understand what insider threats you can mitigate. "
+      content : "Our security consultants are seasoned professionals with years of law enforcement, military or cyber experience. We understand what insider threats you can mitigate."
 
     # feature item loop
     - name : "Training"
@@ -61,8 +61,9 @@ service:
       - "images/Social engineer tran.gif"
       - "images/Vishing tran.png"
       - "images/tailgating tran.gif"
-      content : "With indepth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br><br>
-Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then condsider how you can do things better."
+      content : "With in-depth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br><br>
+
+      Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then consider how you can do things better."
       button:
         enable : true
         label : "Arrange a free consultation."
@@ -73,7 +74,7 @@ Our security experts will perform a series of tests to check whether your busine
       images:
       - "images/shoulder surfing tran.gif"
       - "images/dumpster tran.gif"
-      content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as relates to people, begins to emerge."
+      content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as it relates to people, begins to emerge."
       button:
         enable : true
         label : "Check out our training services"
@@ -83,7 +84,7 @@ Our security experts will perform a series of tests to check whether your busine
     - title : "So what is a physical penetration test?"
       images:
       - "images/nervous lady.jpg"
-      content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. We do this using the same tools and techniques a real threat actor would.  We then give you a detailed report on exactly how we did it, and make recommendations on how prevent real attacks."
+      content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. Furthermore, we do this using the same tools and techniques a real threat actor would. We then give you a detailed report on exactly how we did it, and make recommendations on how to prevent real attacks."
       button:
         enable : true
         label : "Find out more about our social engineering penetration tests"
@@ -93,7 +94,7 @@ Our security experts will perform a series of tests to check whether your busine
     - title : "A security company standing different from others"
       images:
       - "images/vip.jpg"
-      content : "We don't simulate or theorize what would happen. We will attempt to breach your physical security just like the bad guys. It can be easier than you may imagine. We figure out your most likely threats, then use the same methods they would. This leaves no guess work as to how your facility's security would hold up against a real intrusion by criminals or activists. We are experienced at testing the security of VIPs, heads of state and vetted secure facilities. Armed with this knowledge, you can adjust your security to match real world threats."
+      content : "We don't simulate or theorize what would happen. We will attempt to breach your physical security, just like the bad guys. It can be easier than you may imagine. We figure out your most likely threats, then use the same methods they would. This leaves no guess work as to how your facility's security would hold up against a real intrusion by criminals or activists. We are experienced at testing the security of VIPs, heads of state and vetted secure facilities. Armed with this knowledge, you can adjust your security to match real world threats."
       button:
         enable : true
         label : "Curious to know more?"
