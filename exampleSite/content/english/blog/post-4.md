@@ -12,7 +12,7 @@ draft: false
 ---
 
 
-Social engineering: the hack that requires no knowledge of code. Despite its relative simplicity the risks associated with social engineering are just as serious as the numerous hacks that have populated recent headlines. For everyday citizens awareness of social engineering scams and the methods they use that prey on weaknesses in human behavior should be at an all time high. Everyone is a target and you should be vigilantly aware of anyone asking for personal or private information.
+Social engineering: the hack that requires no knowledge of code. Despite its relative simplicity the risks associated with social engineering are just as serious as the numerous hacks that have populated recent headlines. For everyday citizen's awareness of social engineering scams and the methods they use that prey on weaknesses in human behaviour should be at an all-time high. Everyone is a target, and you should be vigilantly aware of anyone asking for personal or private information.
 
 
 
@@ -24,8 +24,8 @@ telling you the password?
 
 #### Human Hacking: Cautionary Tales
 
-A powerful CEO was brought to ruin through a charity scam. Social engineers found out he had a family member who was battling cancer and other information through his Facebook page. Using that emotional attachment, they tugged at his heartstrings and he was asked to donate money to a cancer research fund. The PDF that was sent, however, was malware that took control of his computer
-A seemingly harmless family enters a theme parkonly to discover that they have left their print out coupon behind at home. Appealing to the human nature of the ticket booth, they ask the workers if they may bring up the email file and print out the coupon, or even just to show that they indeed have a coupon. Unfortunately, that harmless family is a group of actors looking to get in the park's system by bringing up a harmful file on their computers.
+A powerful CEO was brought to ruin through a charity scam. Social engineers found out he had a family member who was battling cancer and other information through his Facebook page. Using that emotional attachment, they tugged at his heartstrings and he was asked to donate money to a cancer research fund. The PDF that was sent, however, was malware that took control of his computer <Br>
+A seemingly harmless family enters a theme park only to discover that they have left their print out coupon behind at home. Appealing to the human nature of the ticket booth, they ask the workers if they may bring up the email file and print out the coupon, or even just to show that they indeed have a coupon. Unfortunately, that harmless family is a group of actors looking to get in the park's system by bringing up a harmful file on their computers.
 Luckily, these were all just tests run by Chris Hadnagy, author of Social Engineering: The Art of Human Hacking. He is hired by companies to show how criminals can get information. Both of these stories are perfect examples of social engineering; hacking people rather than software.
 
 January 5th 2011- “How strong is your Shmooze” DefCon Security Conference campaign to increase awareness of social engineering. Contestants tried to extract as much potentially harmful information as possible from target businesses through social engineering. Google, Microsoft, Apple, Cisco, BP, Shell, Ford, PG&E, Coke, and Pepsi "failed" the test and of the 50 employees that were targeted, only 3 did not reveal any information and terminated the call.
@@ -82,11 +82,11 @@ Customised and personalised emails catch peoples' attention. using names, locati
 Ex: fake local news stories prompt reader with a "read more" button that leads to malicious malware
 Spoofed Messages
 Social engineers disguise scams as well known or trusted sources.
-Ex: UPS message claiming a package has failed to be delivered, asking the victim to print out an invoice to take to the ups center for pickup, when actually it's a malicious PDF file.
+Ex: UPS message claiming a package has failed to be delivered, asking the victim to print out an invoice to take to the ups centre for pickup, when actually it's a malicious PDF file.
 
 * Social Compliance
-Criminals know its human nature to follow what others are doing making you more inclined to trust their LIES.
-Ex: Facebook likejacking, users were fooled into 'liking' sites that claimed to have celebrity news. instead it was a malicious site that hijacked the mouse into liking the page so it showed up on the user's Facebook, giving it false legitimacy
+Criminals know it's human nature to follow what others are doing, making you more inclined to trust their LIES.
+Ex: Facebook likejacking, users were fooled into 'liking' sites that claimed to have celebrity news. Instead, it was a malicious site that hijacked the mouse into liking the page, so it showed up on the user's Facebook, giving it false legitimacy
 
 * Reliance on Security Measures
 Criminals know we take our security measures for granted and feed off that dependency.

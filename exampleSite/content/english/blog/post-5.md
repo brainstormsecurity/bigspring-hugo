@@ -14,11 +14,11 @@ draft: false
 
 ### The Security Event 2022 in Birmingham, UK
 
-Brainstorm Security are please to announce we will be in attendance at this amazing show designed by the industry for the industry, The Security Event returns to the Birmingham NEC over 5 - 7 April 2022, reuniting installers, integrators, manufacturers, distributors and end users. 
+Brainstorm Security are pleased to announce we will be in attendance at this amazing show designed by the industry for the industry, The Security Event returns to the Birmingham NEC over 5 - 7 April 2022, reuniting installers, integrators, manufacturers, distributors and end users. 
 
 ![image](../../images/blog/secpeople.png)
 
-The exhibition will showcase the world’s leading security brands, offering you the best opportunity to source the latest products, technologies and solutions, whilst networking and meeting face-to-face with key experts from across the industry. Ensure you're up to date with the latest developments and issues in security via the comprehensive education programme.
+The exhibition will showcase the world’s leading security brands, offering you the best opportunity to source the latest products, technologies and solutions, whilst networking and meeting face-to-face with key experts from across the industry. Ensure you're up-to-date with the latest developments and issues in security via the comprehensive education programme.
 
 <br>
 

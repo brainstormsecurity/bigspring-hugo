@@ -12,8 +12,6 @@ draft: false
 ---
 
 
-## What Role Does Cybersecurity Play In Your Physical Security?
-
 Today, very few organizations depend solely on one kind of security measure to secure their organization and cover their assets. Most companies employ security systems that feature physical security protocols as well as cybersecurity protocols. However, to correctly implement physical security measures and cybersecurity measures side by side, you need to understand the role that cybersecurity plays in physical security for businesses.
 
 A basic understanding of the relationship between these elements allows your security measures to seamlessly coexist, while also mitigating any dangers that your business security might face along the way.
@@ -39,7 +37,7 @@ Streamlined alerts and effective incident response are only obtainable once your
 The great thing about these kinds of physical security measures is that they can be integrated to work with one another to increase the scope of security that each individual security solution provides. This even applies to small businesses who might prefer to use keypad door locks, as a more cost-effective option than access control systems or commercial grade locks.
 
 Businesses can also take advantage of incident response templates that serve to bridge the gap between physical security and cybersecurity. Coupling a robust incident response plan with active physical security solutions that
- are already in place will make it rather difficult for a company’s security to be thwarted. Both Physical and Cyber security needs to work in tandem.
+ are already in place will make it rather difficult for a company’s security to be thwarted. Both Physical and Cybersecurity needs to work in tandem.
 
 ## Cybersecurity Helps Mitigate Physical Risk
 
