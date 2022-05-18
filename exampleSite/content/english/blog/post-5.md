@@ -4,7 +4,7 @@ date: 2022-04-04T10:07:21+06:00
 # post image
 image: "images/blog/sev.png"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "This is meta description"
 # post draft
