@@ -32,7 +32,7 @@ For the purposes of this Privacy Policy:
 
     Account means a unique account created for You to access our Service or parts of our Service.
 
-    Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Brainstorm Security Ltd, Kemp Hse, 152-160 City Road, London, EC1V 2NX. .
+    Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Brainstorm Security Ltd, 124 City Road, London, EC1V 2NX. .
 
     Cookies are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
 

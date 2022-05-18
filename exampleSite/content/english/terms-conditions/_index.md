@@ -28,7 +28,7 @@ Affiliate means an entity that controls, is controlled by or is under common con
 
 Country refers to: United Kingdom
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Brainstorm Security Ltd, Kemp Hse, 152-160 City Road, London, EC1V 2NX. .
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Brainstorm Security Ltd, 124 City Road, London, EC1V 2NX. .
 
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
