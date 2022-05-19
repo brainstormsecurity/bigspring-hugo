@@ -42,7 +42,7 @@ name = "About Us"
 url = "aboutus/"
 
 [[footer_left]]
-name = "Quick Start"
+name = "Contact Us"
 url = "contact/"
 
 [[footer_left]]

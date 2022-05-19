@@ -39,11 +39,11 @@ weight = 5
 # footer menu left
 [[footer_left]]
 name = "About Us"
-url = "#"
+url = "about/"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name ="Contact Us"
+url = "contact/"
 
 [[footer_left]]
 name = "Pricing"
