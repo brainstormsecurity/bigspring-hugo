@@ -42,8 +42,8 @@ link = "https://www.twitter.com/Brainstorm_Sec"
 
 [[social]]
 title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/brainstormsecurity"
 
 [[social]]
 title = "linkedin"
