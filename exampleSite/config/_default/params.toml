@@ -33,7 +33,7 @@ button = "I Accept"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/brainstormsec"
 
 [[social]]
 title = "twitter"
@@ -41,7 +41,7 @@ icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "https://www.twitter.com/Brainstorm_Sec"
 
 [[social]]
-title = "skype"
+title = "instagram"
 icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/brainstormsecurity"
 
