@@ -13,8 +13,6 @@ draft: false
 ---
 
 
-
-
 ### Not sure if Security consultants shold be DBS checked?
 The Disclosure and Barring Service (DBS). Although DBS Checks are not required by law, OFSTED state that all schools in the UK must conduct DBS Checks on staff. This allows hiring managers to make suitable and safe hiring decisions. Responsible companies will carry out background checks on contractors and consultants, working on company premises. This helps them mitigate risk, that they're maybe opening the company up to insider risks, data loss, theft or unauthorised access to restricted areas and personnel. 
 
