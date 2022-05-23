@@ -49,3 +49,8 @@ link = "https://www.instagram.com/brainstormsecurity"
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/richard-foster-security/"
+
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCutknd5G5x9_OpbpCyd7m6w"
