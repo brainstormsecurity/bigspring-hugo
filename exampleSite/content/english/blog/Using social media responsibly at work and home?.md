@@ -6,7 +6,7 @@ image: "images/blog/phone.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "Using social media responsibly at work and home? "
+description: "Using social media responsibly at work and home?"
 # post draft
 draft: false
 
