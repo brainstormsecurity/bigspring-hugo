@@ -87,7 +87,6 @@ service:
       button:
         enable : true
         label : "Find out more about our ransom extortion negotiation services"
-      - "images/nervous lady.jpg"
         link : "ransomware-negotiation"
         
     # service item loop
