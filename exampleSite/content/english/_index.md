@@ -46,8 +46,8 @@ feature:
       
     # feature item loop
     - name : "Specialists"
-      icon : "fas fa-door-open"
-      content : "With highly experienced consultants, who have been deployed against highly secure individuals and premises. We can show you how to improve your security."
+      icon : "fas fa-comments-question-check"
+      content : "Highly experienced ransomware negotiators, who have deployed against organised crime groups, recognised hacker groups and bad actors, we are positioned to help you in your time of need."
       
 
 
@@ -70,25 +70,27 @@ service:
         link : "contact"
         
     # service item loop
-    - title : "A discrete and proven social engineering testing company"
+    - title : "So what is a physical penetration test?"
       images:
       - "images/shoulder surfing tran.gif"
       - "images/dumpster tran.gif"
-      content : "A successful social engineering testing programme has well defined objectives and covers several approaches. These include remote digital techniques including leveraging email, text message, phone call and even post. For complete coverage, in person techniques that achieve physical access should also be conducted. When all these approaches are included in a social engineering test, a true picture of strengths and weaknesses, as it relates to people, begins to emerge."
-      button:
-        enable : true
-        label : "Check out our training services"
-        link : "training"
-        
-    # service item loop
-    - title : "So what is a physical penetration test?"
-      images:
-      - "images/nervous lady.jpg"
       content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. Furthermore, we do this using the same tools and techniques a real threat actor would. We then give you a detailed report on exactly how we did it, and make recommendations on how to prevent real attacks."
       button:
         enable : true
-        label : "Find out more about our social engineering penetration tests"
+        label : "Check out our security testing services"
         link : "security-testing"
+        
+    # service item loop
+    - title : "Extortion Negotiation"
+      images:
+      - "images/nervous lady.jpg"
+      content : "Our professional team of cyber extortion case managers will negotiate 24/7 on your behalf and won’t stop until directed to or your incident is resolved
+      You can focus on managing your recovery while Brainstorm Security works within your timeline to get to a desired result. Leverage our cexperienced negotiators to ensure both ransom amount and risks are minimised"
+      button:
+        enable : true
+        label : "Find out more about our ransom extortion negotiation services"
+      - "images/nervous lady.jpg"
+        link : "ransomware-negotiation"
         
     # service item loop
     - title : "A security company standing different from others"
