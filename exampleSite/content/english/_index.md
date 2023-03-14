@@ -83,7 +83,7 @@ service:
       images:
       - "images/nervous lady.jpg"
       content : "Our professional team of cyber extortion case managers will negotiate 24/7 on your behalf and won’t stop until directed to or your incident is resolved
-      You can focus on managing your recovery while Brainstorm Security works within your timeline to get to a desired result. Leverage our cexperienced negotiators to ensure both ransom amount and risks are minimised"
+      You can focus on managing your recovery while Brainstorm Security works within your timeline to get to a desired result. Leverage our experienced negotiators to ensure both ransom amount and risks are minimised"
       button:
         enable : true
         label : "Find out more about our ransom extortion negotiation services"
