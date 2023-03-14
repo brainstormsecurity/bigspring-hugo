@@ -1,22 +1,21 @@
 ---
 title: "Why it's worthwhile to try hiring ransomware negotiating services?"
-date: 2022-03-10T10:07:21+06:00
+date: 2023-03-10T10:07:21+06:00
 # post image
 image: "images/blog/ransom.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "Why it's worthwhile to try hiring ransomware negotiating services?"
+description: "How to hire a ransomware negotiating service in the UK"
 # post draft
 draft: false
 
 ---
 
 
-
 #### Introduction
 
-Have you planned for what will happen if you or your organisation is struck with a ransomware demand? What if your sharepoint files, network or terminals are all encrypted and you cannot operate your business? You may need to contact a number of people to assist including Law Enforcement, ICO, an Incident Response company .....and maybe a Ransomware negotiator?
+Have you planned for what will happen if you or your organisation is struck with a ransomware demand? What if your sharepoint files, email, network, laptops or endpoint terminals are all encrypted and you cannot operate your business? You may need to contact a number of people to assist including Law Enforcement, ICO, an Incident Response company .....and maybe a Ransomware negotiator?
 
 ### Why it's worthwhile to try hiring ransomware negotiating services.
 
