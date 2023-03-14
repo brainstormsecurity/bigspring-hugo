@@ -56,11 +56,6 @@ name = "Blog"
 url = "blog/"
 
 
-# footer menu middle
-[[footer_middle]]
-name = "Phishing Services"
-url = "phishing/"
-
 [[footer_middle]]
 name = "Training"
 url = "training/"
