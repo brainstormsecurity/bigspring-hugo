@@ -1,5 +1,5 @@
 ---
-title: "Why it's worthwhile to try hiring ransomware negotiating services?"
+title: "Is it worthwhile hiring a ransomware negotiating services?"
 date: 2023-03-10T10:07:21+06:00
 # post image
 image: "images/blog/ransom.jpg"
