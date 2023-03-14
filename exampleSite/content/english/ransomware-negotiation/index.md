@@ -129,7 +129,3 @@ Brainstorm Security provides a realistic assessment of any given situation, opti
 
 Don't let ransomware destroy your business or personal data. If you are experiencing a ransomware attack, are currently being extorted or would like advice regarding how we can help in the event of an attack on your organisation, then contact us today to learn how our ransomware negotiator services can help you.
 
-button:
-  enable : true
-  label : "Contact Us"
-  link : "contact"
