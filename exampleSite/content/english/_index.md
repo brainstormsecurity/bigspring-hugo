@@ -43,13 +43,11 @@ feature:
       icon : "fas fa-address-card"
       content : "It is a common requirement of information security programs to replicate the threat of social engineering attacks through regular penetration tests."
       
-      
     # feature item loop
-    - name : "Ransomware Negotiators"
+    - name : "Ransomware Negotiator"
       icon : "fas fa-comments-question-check"
       content : "Highly experienced ransomware negotiators, who have deployed against organised crime groups, recognised hacker groups and bad actors, we are positioned to help you in your time of need."
       
-
 
 ######################### Service #####################
 service:
