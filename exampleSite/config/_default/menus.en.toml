@@ -18,13 +18,19 @@ hasChildren = true
   parent = "Services"
   name = "Security Testing"
   url = "security-testing/"
-  weight = 1
+  weight = 3
 
   [[main]]
   parent = "Services"
   name = "Cyber Awareness Training"
   url = "training/"
   weight = 2
+
+  [[main]]
+  parent = "Services"
+  name = "Ransomware Negotiation"
+  url = "ransomware-negotiation/"
+  weight = 1
 
 [[main]]
 name = "Contact"
