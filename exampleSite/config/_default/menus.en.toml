@@ -63,6 +63,10 @@ url = "training/"
 name = "Security Testing"
 url = "security-testing/"
 
+[[footer_middle]]
+name = "Ransomware Negotiation"
+url = "ransomware-negotiation/"
+
 # footer menu right
 [[footer_right]]
 name = "Privacy Policy"
