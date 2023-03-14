@@ -45,7 +45,7 @@ feature:
       
       
     # feature item loop
-    - name : "Specialists"
+    - name : "Ransomware Negotiators"
       icon : "fas fa-comments-question-check"
       content : "Highly experienced ransomware negotiators, who have deployed against organised crime groups, recognised hacker groups and bad actors, we are positioned to help you in your time of need."
       
