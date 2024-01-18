@@ -1,5 +1,5 @@
 ---
-title: "TEST Do Contractors or Security Consultants legally have to get a DBS Check to work in my company or education setting?"
+title: "Do Contractors or Security Consultants legally have to get a DBS Check to work in my company or education setting?"
 date: 2022-05-23T07:07:21+06:00
 # post image
 image: "images/blog/dbs-check-done.jpg"
