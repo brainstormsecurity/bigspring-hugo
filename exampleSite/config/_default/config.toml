@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
-title = "Brainstorm Security Ltd - Social Engineering and Penetration testing"
+title = "Brainstorm Security Ltd - Ransomware Negotiation, Social Engineering and Penetration testing"
 theme = "bigspring-light"
 # post pagination
 paginate = "12"
