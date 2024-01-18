@@ -25,7 +25,7 @@ link = "ransomware-negotiation"
 # cookies
 [cookies]
 enable = true
-expire_days = 2
+expire_days = 10
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
   
