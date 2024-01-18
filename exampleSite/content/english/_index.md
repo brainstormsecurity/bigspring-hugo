@@ -1,10 +1,30 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "We can help solve your physical security threats, by testing your facilities & training your people.<br> <br> Helping transform your security culture."
+  title : "Experts in ransomware negotiation. Ex-Law enforcment supporting companies during critical ransomware incidents. <br> <br> We can also help solve your physical security threats, by testing your facilities & training your people."
   image : "images/camera.jpg"
-  content : "What would happen if your premises or business had a physical intruder gain access? What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal Risks? 
+  content : "When faced with a time critical ransomware demand, experience makes the difference: Secure your business with a veteran ransomware negotiator.
+
+### Faced with a ransomware attack? 
+
+Your systems locked, data hostage, and a ticking clock spewing threats. In this heart-stopping scenario, panic is a liability. You need a calm, calculated mind, a operational-tested negotiator who's seen it before and knows how to navigate the murky waters of cybercrime. That's where we come in.
+
+We are the shields against digital darkness. Our seasoned ransomware negotiators, veterans of countless successful resolutions, brings unwavering expertise and razor-sharp tactics to the table. We understand the attacker's playbook, their pressure tactics, and their vulnerabilities. We speak their language, having spend decades negotiating with criminals as law enforcement officers but unlike them, we prioritise your safety and recovery above all else.
+
+### Here's how we stand as your unwavering defenders:
+
+**Immediate action:** We can deploy instantly, taking control of the situation and minimising downtime.
+Expert analysis: We meticulously assess the attack, identifying vulnerabilities and formulating the optimal negotiation strategy.
+**Ice-cold communication:** We act as your voice, wielding proven communication tactics to de-escalate the situation and secure the best possible outcome.
+**Unwavering support:** We remain by your side throughout the entire ordeal, providing guidance, updates, and emotional support until you're back in full control.
+**Don't gamble with your future.** When every second counts, trust the experience that delivers results. 
+
+Contact us today for a confidential consultation and see how our veteran negotiators can help you navigate the darkness and emerge stronger.
   
+  <br><br>
+
+  Need help with your physical security? What would happen if your premises or business had a physical intruder gain access? What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal Risks? 
+
   <br><br>
   
   If you are looking to improve or test your Physical security or as part of your ongoing cybersecurity threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
