@@ -1,17 +1,16 @@
 ---
 title: "Why join an industry association? : 8 good reasons to belong to a trade association for your profession"
-date: 2022-05-17T10:07:21+06:00
+date: 2024-01-11T10:07:21+06:00
 # post image
 image: "images/blog/ipsa _logo_med.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "8 good reasons to belong to a trade association for your profession"
 # post draft
 draft: false
 
 ---
-
 
 
 
