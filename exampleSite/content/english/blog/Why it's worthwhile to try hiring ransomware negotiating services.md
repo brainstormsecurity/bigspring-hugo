@@ -1,10 +1,10 @@
 ---
 title: "Is it worthwhile hiring a ransomware negotiating services?"
-date: 2023-03-10T10:07:21+06:00
+date: 2024-01-16T10:07:21+06:00
 # post image
 image: "images/blog/ransom.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "How to hire a ransomware negotiating service in the UK"
 # post draft
