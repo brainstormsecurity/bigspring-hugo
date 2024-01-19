@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Security: The Case for Placing Ransomware Negotiation Services on Retainer"
-date: 2023-01-28T10:07:21+06:00
+date: 2024-01-18T10:07:21+06:00
 # post image
 image: "images/blog/hire.jpg"
 # post type (regular/featured)
