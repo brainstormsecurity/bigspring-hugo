@@ -2,11 +2,11 @@
 title: "Unlocking Security: The Case for Placing Ransomware Negotiation Services on Retainer"
 date: 2024-01-18T10:07:21+06:00
 # post image
-image: "images/blog/post-2.jpg"
+image: "images/blog/deal.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "The Case for Placing Ransomware Negotiation Services on Retainer. Not all negotiators are the same."
+description: "The Case for Placing Ransomware Negotiation Services on Retainer. Warning Not all negotiators are the same."
 # post draft
 draft: false
 
