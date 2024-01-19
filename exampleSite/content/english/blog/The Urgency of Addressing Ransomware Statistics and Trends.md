@@ -1,12 +1,12 @@
 ---
-title: "How to negotiate with hackers, and win!"
+title: "The Urgency of Addressing Ransomware Statistics and Trends"
 date: 2024-01-16T10:07:21+06:00
 # post image
 image: "images/blog/data.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "How to negotiate with hackers, and win, in the UK"
+description: "The Urgency of Addressing Ransomware Statistics and Trends"
 # post draft
 draft: false
 
