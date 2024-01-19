@@ -2,7 +2,7 @@
 title: "The Urgency of Addressing Ransomware Statistics and Trends"
 date: 2024-01-16T10:07:21+06:00
 # post image
-image: "images/blog/negotiate.jpg"
+image: "images/blog/data.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
