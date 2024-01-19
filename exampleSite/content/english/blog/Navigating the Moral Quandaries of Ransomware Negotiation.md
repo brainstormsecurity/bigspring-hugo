@@ -1,6 +1,6 @@
 ---
 title: "Navigating the Moral Quandaries of Ransomware Negotiation"
-date: 2022-05-22T10:07:21+06:00
+date: 2023-05-22T10:07:21+06:00
 # post image
 image: "images/blog/negotiate.jpg"
 # post type (regular/featured)

@@ -1,6 +1,6 @@
 ---
 title: "The Urgency of Addressing Ransomware: Statistics and Trends"
-date: 2024-04-22T10:07:21+06:00
+date: 2023-04-22T10:07:21+06:00
 # post image
 image: "images/blog/data.jpg"
 # post type (regular/featured)
