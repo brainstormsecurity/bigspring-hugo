@@ -1,10 +1,10 @@
 ---
 title: "Using social media responsibly at work and home?"
-date: 2022-06-20T10:07:21+06:00
+date: 2023-01-16T10:07:21+06:00
 # post image
 image: "images/blog/phone.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Using social media responsibly at work and home?"
 # post draft
