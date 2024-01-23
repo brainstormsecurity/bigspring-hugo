@@ -3,24 +3,24 @@
 banner:
   title : "Experts in ransomware negotiation. Ex-Law enforcment supporting companies during critical ransomware incidents. <br> <br> We also help solve your physical security threats, by testing your facilities & training your people."
   image : "images/camera.jpg"
-  content : "When faced with a time critical ransomware demand, experience makes the difference: Secure your business with a veteran ransomware negotiator.
+  content : "When faced with a time critical ransomware demand, experience makes the difference: Secure your business with a experienced ransomware negotiator.
 
 ### Faced with a ransomware attack? 
 
-Your systems locked, data hostage, and a ticking clock spewing threats. In this heart-stopping scenario, panic is a liability. You need a calm, calculated mind, a operational-tested negotiator who's seen it before and knows how to navigate the murky waters of cybercrime. That's where we come in.
+Your systems locked, data hostage, and a ticking clock spewing threats. In this heart-stopping scenario, panic can be a liability. You need a calm, calculated mind, an operational-tested negotiator who's seen it before and knows how to navigate criminal environments. That's where we come in.
 
-We are the shields against digital darkness. Our seasoned ransomware negotiators, veterans of countless successful resolutions, brings unwavering expertise and razor-sharp tactics to the table. We understand the attacker's playbook, their pressure tactics, and their vulnerabilities. We speak their language, having spend decades negotiating with criminals as law enforcement officers but unlike them, we prioritise your safety and recovery above all else.
+ Our seasoned ransomware negotiators, veterans of countless successful resolutions, brings unwavering expertise and razor-sharp tactics to the table. We understand the attacker's playbook, their pressure tactics, and their vulnerabilities. We speak their language, having spend decades negotiating with criminals as law enforcement officers but unlike them, we prioritise your safety and recovery above all else.
 
 ### Here's how we stand as your unwavering defenders:
 
 **Immediate action:** We can deploy instantly, taking control of the situation and minimising downtime.
 Expert analysis: We meticulously assess the attack, identifying vulnerabilities and formulating the optimal negotiation strategy.
-**Ice-cold communication:** We act as your voice, wielding proven communication tactics to de-escalate the situation and secure the best possible outcome.
+**Calm and professional communication:** We act as your voice, wielding proven communication tactics to de-escalate the situation and secure the best possible outcome.
 **Unwavering support:** We remain by your side throughout the entire ordeal, providing guidance, updates, and emotional support until you're back in full control.
 <br><br>
 **Don't gamble with your future.** When every second counts, trust the experience that delivers results. 
 
-Contact us today for a confidential consultation and see how our veteran negotiators can help you navigate the darkness and emerge stronger.
+Contact us today for a confidential consultation and see how our veteran negotiators can help you navigate ransomware or extorsion demands and emerge stronger.
   
   <br><br>
 
