@@ -2,7 +2,7 @@
 title: "Social Engineering: Emotions and Tactics"
 date: 2024-02-01T10:07:21+06:00
 # post image
-image: "images/blog/urgency.jpg"
+image: "images/blog/urgent.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -12,8 +12,6 @@ draft: false
 
 ---
 
-
-## Social Engineering: Emotions and Tactics
 
 Here at Brainstorm Security, we use social engineering all the time to conduct physical penetration tests, phishing simulations, ransomware negotiations and even who's turn it is to make the coffee! Social engineering can be a manipulative technique that exploits human emotions and vulnerabilities to trick individuals into divulging sensitive information, granting access to systems, or taking actions against their best interests. We like to use it in a positive manner, so people are left with a positive feeling after an interaction. In an eduction setting people don't like to feel they have been 'tricked'. The learning comes from exposing employees to the emotion, and getting them to recognise just how a bad guy can use this to manipulate (and ultimately gain unauthorised access to premises/systems/money). The practice of social engineering targets emotions like:
 
