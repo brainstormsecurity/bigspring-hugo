@@ -1,6 +1,6 @@
 ---
 title: "What are the Pros and Cons of Ransomware Negotiation?"
-date: 2024-02-01T10:07:21+06:00
+date: 2024-02-07T10:07:21+06:00
 # post image
 image: "images/blog/ransom1.jpg"
 # post type (regular/featured)
@@ -12,7 +12,6 @@ draft: false
 
 ---
 
-## Ransomware Negotiations: Pros and Cons
 
 Navigating a ransomware attack is an incredibly stressful situation, and the decision to negotiate with the attackers is far from straightforward. Both paying and refusing to pay, come with significant advantages and disadvantages that require careful consideration. It is worth clarifying that **ransomware negotiation is not paying a threat actor!** 
 The art of negotiating is, communicating with the threat actor once a demand has been made, and attempting to regain some control of the situation to help minimise the damage caused. 
