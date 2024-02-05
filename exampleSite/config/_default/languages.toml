@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Brainstorm Security - Ransomware Negotiation, Social Engineering and Physical Penetration testing experts"
+title = "Ransomware Negotiation, Social Engineering & Physical Penetration testing experts"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -17,7 +17,7 @@ copyright = "Design By [Themefisher] Develop By [Gethugothemes]"
 ############################# Deutsch ############################
 [de]
 languageName = "De"
-title = "Brainstorm Security - Ransomware Negotiation, Social Engineering and Physical Penetration testing experts"
+title = "Ransomware Negotiation, Social Engineering and Physical Penetration testing experts"
 contentDir = "content/deutsch" # content/german
 weight = 2
 ########### footer content ##########
