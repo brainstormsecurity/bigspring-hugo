@@ -50,7 +50,3 @@ link = "plugins/slick/slick.min.js"
 # link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
 # attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
 
-######################### youtube variables ##############################
-
-[[params.plugins.js]]
-link = "plugins/youtube-lite.js"
