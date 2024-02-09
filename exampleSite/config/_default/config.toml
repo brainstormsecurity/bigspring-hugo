@@ -13,5 +13,3 @@ googleAnalytics = "UA-224575125-1" # example : UA-123-44
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
-[[params.plugins.js]]
-link = "plugins/youtube-lite.js"

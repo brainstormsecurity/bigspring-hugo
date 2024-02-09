@@ -70,7 +70,7 @@ feature:
       content : "Our negotiators, are experienced in engaging with well known ransomware groups and threat actors, so are best placed to help with your incident response."
       
 
-######################### Service #####################
+######################### Service ######################
 service:
   enable : true
   service_item:
