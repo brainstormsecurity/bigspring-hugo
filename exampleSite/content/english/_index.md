@@ -67,7 +67,7 @@ feature:
     # feature item loop
     - name : "Ransomware Negotiator"
       icon : "fas fa-comments-dollar"
-      content : "Our ransomware negotiators, are experienced in engaging  with many well known and lesser known ransomware groups and threat actors, so we are best positioned to help you and your incident response."
+      content : "Our negotiators, are experienced in engaging with well known ransomware groups and threat actors, so are best placed to help with your incident response."
       
 
 ######################### Service #####################
