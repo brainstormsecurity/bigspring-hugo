@@ -26,11 +26,17 @@ So, how can businesses avoid the need for negotiators altogether? According to R
 
 ![image](../../images/blog/data.jpg)
 
+>“Information is a negotiator’s greatest weapon.” – Victor Kiam
+<hr>
+
 Threat intelligence services play a crucial role in safeguarding against ransomware attacks. However, Richard notes that many organisations struggle to effectively leverage these tools. At Brainstorm Security, their analyst team assists clients in operationalising threat intelligence, ensuring that it's integrated seamlessly into their cybersecurity strategy.
 
 **Navigating Ransomware Negotiations**
 
-While negotiation may become necessary in some cases, Richard warns against hasty decisions and advises companies to engage negotiators early in the process. By identifying red flags and communicating effectively with threat actors, negotiators can maximise the chances of a successful resolution.
+> “One of the best ways to persuade others, is by listening to the other person.” - Richard Foster
+<hr>
+
+While negotiation may become necessary in some cases, Richard warns against hasty decisions and advises companies to engage negotiators early in the process. By identifying red flags and communicating effectively with threat actors, listening to what they are telling you, is when you can start to understand their perspective. Negotiators can then maximise the chances of a successful resolution, for both parties. It might sound strange, trying to understand what the threat actor wants. To successfully reduce the initial demands made, on behalf of a victim, the threat actor must be listened to, so both parties come away feeling they have achieved a "win".
 
 **Looking Ahead**
 
