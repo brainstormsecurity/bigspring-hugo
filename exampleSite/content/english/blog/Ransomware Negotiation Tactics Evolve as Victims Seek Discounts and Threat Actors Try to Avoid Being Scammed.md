@@ -4,7 +4,7 @@ date: 2024-02-20T10:07:21+06:00
 # post image
 image: "images/blog/hacker1.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Discover how Ransomware Negotiation Tactics have evolved as Victims Seek Discounts and Threat Actors Try to Avoid Being Scammed."
 # post draft
