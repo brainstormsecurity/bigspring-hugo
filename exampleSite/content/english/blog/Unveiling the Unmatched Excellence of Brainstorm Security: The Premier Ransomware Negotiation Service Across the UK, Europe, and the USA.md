@@ -1,6 +1,6 @@
 ---
 title: "Unveiling the Unmatched Excellence of Brainstorm Security: The Premier Ransomware Negotiation Service Across the UK, Europe, Asia and the USA"
-date: 2024-01-20T10:07:21+06:00
+date: 2023-05-05T10:07:21+06:00
 # post image
 image: "images/blog/deal.jpg"
 # post type (regular/featured)

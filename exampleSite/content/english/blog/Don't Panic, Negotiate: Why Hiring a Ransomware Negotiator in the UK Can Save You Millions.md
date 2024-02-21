@@ -1,7 +1,6 @@
 ---
 title: "Don't Panic, Negotiate: Why Hiring a Ransomware Negotiator in the UK Can Save You Millions (and More)"
 date: 2023-01-22T10:07:21+06:00
-date: 2024-01-16T10:07:21+06:00
 # post image
 image: "images/blog/worried.jpg"
 # post type (regular/featured)
