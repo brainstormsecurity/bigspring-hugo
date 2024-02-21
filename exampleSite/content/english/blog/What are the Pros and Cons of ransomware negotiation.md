@@ -53,6 +53,8 @@ This strategy aims to maximize pressure on victims, making them more likely to p
 
 **The decision to negotiate with ransomware attackers is complex and requires careful evaluation of all risks and potential outcomes. Consulting cybersecurity professionals and legal counsel can provide valuable guidance in navigating this challenging situation.**
 
+{{< youtube 3ctf2W8POww >}}
+
 **Further Resources:**
 
 * **CISA: Ransomware Guide:** [https://www.cisa.gov/stopransomware](https://www.cisa.gov/stopransomware): [https://www.cisa.gov/stopransomware](https://www.cisa.gov/stopransomware)
