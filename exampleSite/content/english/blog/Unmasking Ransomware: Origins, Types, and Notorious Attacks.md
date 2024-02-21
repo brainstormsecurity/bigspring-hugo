@@ -1,6 +1,6 @@
 ---
 title: "Unmasking Ransomware: Origins, Types, and Notorious Attacks"
-date: 2024-01-16T10:07:21+06:00
+date: 2024-02-20T10:07:21+06:00
 # post image
 image: "images/blog/what_is_Ransomware.jpg"
 # post type (regular/featured)
