@@ -20,9 +20,7 @@ Three international arrest warrants and five indictments have also been issued b
 **LockBit Websites Seized:**
 LockBit websites now display a takeover message by authorities, indicating a full disclosure of operations. Global law enforcement agencies have taken control of eight ".onion" domains owned by the ransomware group, with messages confirming their control over the sites.
 
-![image](../../images/blog/loglockbit.jpg)
-
-{{< youtube C0DPdy98e4c >}}
+![image](../../images/blog/bloglockbit.jpg)
 
 **Home Secretary James Cleverly said:** 
 
