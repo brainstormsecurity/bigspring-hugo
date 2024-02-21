@@ -11,6 +11,7 @@ description: "Discover how Ransomware Negotiation Tactics have evolved as Victim
 draft: false
 
 ---
+
 The landscape of ransomware negotiation is undergoing significant evolution, as illustrated by a recent reported news story involving a European manufacturing company. The ransomware negotiator, who requested anonymity, due to confidentiality reasons, found himself engaged in unexpected dialogue with the hackers who had infiltrated his client's systems.
 
 **Tales from a ransomware negotiator** 
