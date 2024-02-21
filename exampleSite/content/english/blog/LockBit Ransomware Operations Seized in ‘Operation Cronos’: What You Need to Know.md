@@ -41,7 +41,7 @@ Now there has been official confirmation and press release regarding the seizure
 **Impact on LockBit’s Operations:**
 The takedown has not only seized key operations of the ransomware gang but has also locked out LockBit’s affiliates attempting to access the affiliate panel. This panel serves as a central control hub for managing various LockBit ransomware activities.
 
-image: "images/blog/VX.jpg"
+![image](../../images/blog/VX.jpg)
 
 **LockBit’s Rise and Fall:**
 LockBit ransomware-as-a-service (RaaS) gained rapid prominence since its inception in 2019, quickly becoming one of the most widely used ransomware strains by 2022. However, with the recent takedown operation, its reign faces a significant challenge.
