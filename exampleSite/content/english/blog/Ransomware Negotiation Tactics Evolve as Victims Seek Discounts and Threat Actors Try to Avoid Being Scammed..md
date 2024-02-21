@@ -1,6 +1,6 @@
 ---
 title: "Ransomware Negotiation Tactics Evolve as Victims Seek Discounts and Threat Actors Try to Avoid Being Scammed."
-date: 2024-02-20T10:07:21+06:00
+date: 2024-02-20T10:07:21+07:00
 # post image
 image: "images/blog/hacker1.jpg"
 # post type (regular/featured)
