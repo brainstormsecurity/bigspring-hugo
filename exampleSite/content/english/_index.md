@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Experts in ransomware negotiation. Ex-Law Enforcement supporting you during critical ransomware incidents." <br> 
+  title : "Experts in ransomware negotiation. Ex-Law Enforcement supporting you during critical ransomware incidents."  
   image : "images/camera.jpg"
   content : "When faced with a time critical ransomware demand, experience makes the difference: Secure your business with a experienced ransomware negotiator.
 
@@ -17,7 +17,9 @@ Your systems locked, data hostage, and a ticking clock spewing threats. In this 
 Expert analysis: We meticulously assess the attack, identifying vulnerabilities and formulating the optimal negotiation strategy.
 **Calm and professional communication:** We act as your voice, wielding proven communication tactics to de-escalate the situation and secure the best possible outcome.
 **Unwavering support:** We remain by your side throughout the entire ordeal, providing guidance, updates, and emotional support until you're back in full control.
+
 <br><br>
+
 **Don't gamble with your future.** When every second counts, trust the experience that delivers results. 
 
 Contact us today for a confidential consultation and see how our veteran negotiators can help you navigate ransomware or extorsion demands and emerge stronger.
