@@ -551,7 +551,4 @@ a.post-title {
 .price {
   font-size: 50px;
   color: #222; }
-  
-.youtube-video {
-  aspect-ratio: 16 / 9;
-  width: 100%; }
+
