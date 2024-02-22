@@ -5,7 +5,7 @@ sitemap:
 title: "Frequently Asked Questions"
 subtitle: ""
 # meta description
-description: "Frequently Asked Questions and helpful information"
+description: "Frequently Asked Questions and helpful information For Ransomware negotiation"
 draft: false
 ---
 
