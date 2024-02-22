@@ -5,6 +5,7 @@
 <section class="banner">
   <div class="container">
     <div class="row">
+      <div class="youtube-video" {aspect-ratio: 16 / 9; width: 100%;}>
       <div class="col-lg-10 mx-auto text-center">
         <h1 class="mb-3">{{ .title | markdownify }}</h1>
         <p class="mb-4">{{ .content | markdownify }}</p>
@@ -14,6 +15,7 @@
         {{ end }}
         {{ end }}
          <p> </p>
+         <iframe class="youtube-video" src="https://www.youtube.com/embed/5kW0RtcJZC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe width="640" height="360" src="https://www.youtube.com/embed/3ctf2W8POww?si=z_RuAbbNhqdYp_4k&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
