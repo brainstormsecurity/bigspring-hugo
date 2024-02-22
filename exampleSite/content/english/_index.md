@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Experts in ransomware negotiation. Ex-Law Enforcement supporting companies during critical ransomware incidents. <br> <br> We also help solve your physical security threats, by testing your facilities & training your people."
+  title : "Experts in ransomware negotiation. Ex-Law Enforcement supporting companies during critical ransomware incidents." <br> 
   image : "images/camera.jpg"
   content : "When faced with a time critical ransomware demand, experience makes the difference: Secure your business with a experienced ransomware negotiator.
 
@@ -11,7 +11,7 @@ Your systems locked, data hostage, and a ticking clock spewing threats. In this 
 
  Our seasoned ransomware negotiators, veterans of countless successful resolutions, brings unwavering expertise and razor-sharp tactics to the table. We understand the attacker's playbook, their pressure tactics, and their vulnerabilities. We speak their language, having spend decades negotiating with criminals as law enforcement officers but unlike them, we prioritise your safety and recovery above all else.
 
-### Here's how we stand as your unwavering defenders:
+### Here's how we can help with your ransomware negotiation needs:
 
 **Immediate action:** We can deploy instantly, taking control of the situation and minimising downtime.
 Expert analysis: We meticulously assess the attack, identifying vulnerabilities and formulating the optimal negotiation strategy.
@@ -23,6 +23,8 @@ Expert analysis: We meticulously assess the attack, identifying vulnerabilities 
 Contact us today for a confidential consultation and see how our veteran negotiators can help you navigate ransomware or extorsion demands and emerge stronger.
   
   <br><br>
+
+##We also help solve your physical security threats, by testing your facilities & training your people.##
 
   Need help with your physical security? What would happen if your premises or business had a physical intruder gain access? What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal Risks? 
 
