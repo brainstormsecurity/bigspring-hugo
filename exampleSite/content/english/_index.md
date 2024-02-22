@@ -78,8 +78,9 @@ service:
     - title : "We have decades of experience helping conduct physical security tests"
       images:
       - "images/Negotiation.jpg"
-      - "images/Social engineering.jpg"
-      - "images/Tailgating.jpg"
+      - "images/PHISHING.jpg"
+      - "images/SMISHING.jpg"
+     
       content : "With in-depth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br><br>
 
       Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then consider how you can do things better."
@@ -91,8 +92,8 @@ service:
     # service item loop
     - title : "So what is a physical penetration test?"
       images:
-      - "images/PHISHING.jpg"
-      - "images/SMISHING.jpg"
+      - "images/Social engineering.jpg"
+      - "images/Tailgating.jpg"
       - "images/Dumpster.jpg"
       - "images/Shoulder surfing.jpg"
       content : "We break in to your facility and seek access to your most valuable assets. We are after your property, data, and even your people. Furthermore, we do this using the same tools and techniques a real threat actor would. We then give you a detailed report on exactly how we did it, and make recommendations on how to prevent real attacks."
