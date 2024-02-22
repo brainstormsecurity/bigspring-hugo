@@ -24,7 +24,7 @@ Contact us today for a confidential consultation and see how our veteran negotia
   
   <br><br>
 
-##We also help solve your physical security threats, by testing your facilities & training your people.##
+##We also help solve your physical security threats, by testing your facilities & training your people.
 
   Need help with your physical security? What would happen if your premises or business had a physical intruder gain access? What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal Risks? 
 
