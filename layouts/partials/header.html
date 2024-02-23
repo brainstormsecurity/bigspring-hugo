@@ -42,7 +42,7 @@
           {{ $translation := .}}
           {{ range $siteLanguages }}
           {{ if eq $translation.Lang .Lang }}
-          {{ $selected := false }}
+          {{ $selected := true }}
           {{ if eq $pageLang .Lang}}
           <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
           </option>

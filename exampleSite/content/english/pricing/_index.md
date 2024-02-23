@@ -3,7 +3,7 @@ title: "Pricing"
 subtitle: ""
 # meta description
 description: "This is meta description"
-draft: false
+draft: true
 
 basic:
   name : "Basic Plan"
