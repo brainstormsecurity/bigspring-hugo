@@ -28,7 +28,11 @@ ALPHV restored its infrastructure, though, and continued breaching companies and
 
 # Law Enforcement Takedown. 
 
-However, today the plot now thickens. An official Law Enforcement takedown notice has been placed on the ransomware gangs blog site on the dark web, indicating a further deliberate take down of the ransomware gang's infrastructure. The new site and the chat blog for negotiations to take place on, that is hosted on the TOR network have also been taken down.
+However, today the plot now thickens. An official Law Enforcement takedown notice has been placed on the ransomware gangs blog site on the dark web, indicating a further deliberate take down of the ransomware gang's infrastructure. The new site and the chat blog for negotiations to take place on, that is hosted on the TOR network have also been taken down. 
+
+# Exit Scam. Have they taken the money and run??
+
+The ransomware group who just received $22,000,000 allegedly from Change Healthcare has now had both leak sites seized. This is a new development this morning hours after BlackCat left a message on their Tox instant messaging platform selling their source code for $5,000,000. Or could this be an elaberate exit scam? I am sure more details will become known over the next few weeks.
 
 ![image](../../images/blog/cat_takedown.png)
 
