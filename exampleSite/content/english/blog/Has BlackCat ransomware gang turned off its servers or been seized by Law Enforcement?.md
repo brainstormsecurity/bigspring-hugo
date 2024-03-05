@@ -1,5 +1,5 @@
 ---
-title: "Has BlackCat ransomware gang turned off its servers or been seized by Law Enforcement?"
+title: "Has BlackCat ransomware gang turned off its servers or has it been seized by Law Enforcement?"
 date: 2024-03-00:05T10:07:21+06:00
 # post image
 image: "images/blog/cat.jpg"
