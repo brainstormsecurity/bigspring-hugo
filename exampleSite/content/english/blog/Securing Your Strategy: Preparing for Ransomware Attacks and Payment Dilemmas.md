@@ -1,6 +1,6 @@
 ---
 title: "Securing Your Strategy: Preparing for Ransomware Attacks and Payment Dilemmas"
-date: 2024-03-01T10:07:21+06:00
+date: 2024-03-04T10:07:21+06:00
 # post image
 image: "images/blog/ransomware_payment_decision.jpg"
 # post type (regular/featured)
