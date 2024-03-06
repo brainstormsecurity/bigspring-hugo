@@ -4,7 +4,7 @@ date: 2024-03-04T10:07:21+06:00
 # post image
 image: "images/blog/cat.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "BlackCat ransomware gang turned off its servers, completed an exit scam or been seized by Law Enforcement?"
 # post draft

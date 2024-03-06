@@ -4,7 +4,7 @@ date: 2022-06-10T10:07:21+06:00
 # post image
 image: "images/blog/doorlock.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Should I save money making my penetration test online only?"
 # post draft

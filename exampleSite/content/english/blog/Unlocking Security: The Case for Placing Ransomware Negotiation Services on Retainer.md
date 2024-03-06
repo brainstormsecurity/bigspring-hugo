@@ -4,7 +4,7 @@ date: 2024-02-01T10:07:21+06:00
 # post image
 image: "images/blog/deal.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "The Case for Placing Ransomware Negotiation Services on Retainer. Warning Not all negotiators are the same."
 # post draft

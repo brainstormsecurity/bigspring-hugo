@@ -4,7 +4,7 @@ date: 2024-03-19T10:07:21+00:00
 # post image
 image: "images/blog/ransomware_payment_decision.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Preparing for a ransomware attack: Negotiation and making a Payment"
 # post draft

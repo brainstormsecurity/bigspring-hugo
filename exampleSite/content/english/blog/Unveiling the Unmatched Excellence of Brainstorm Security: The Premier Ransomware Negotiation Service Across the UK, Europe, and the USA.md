@@ -4,7 +4,7 @@ date: 2023-05-05T10:07:21+06:00
 # post image
 image: "images/blog/deal.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Brainstorm Security: The Premier Ransomware Negotiation Service Across the UK, Europe, Asia and the USA"
 # post draft

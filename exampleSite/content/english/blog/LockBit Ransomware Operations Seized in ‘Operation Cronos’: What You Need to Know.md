@@ -4,7 +4,7 @@ date: 2024-02-20T10:07:21+06:00
 # post image
 image: "images/blog/Takedown.png"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Discover how global law enforcement agencies have seized LockBit ransomware operations in 'Operation Cronos' and learn about the implications for cybersecurity. Find out how to protect your organization against ransomware attacks."
 # post draft
