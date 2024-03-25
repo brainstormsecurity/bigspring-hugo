@@ -44,7 +44,7 @@ feature:
   title : "Start securing your facilities today"
   feature_item:
       # feature item loop
-    - name : "Expereienced Experts"
+    - name : "Experienced Experts"
       icon : "fas fa-user-secret"
       content : "Our security consultants are seasoned professionals with years of law enforcement, military or cyber experience. We understand what insider threats you can mitigate."
 
