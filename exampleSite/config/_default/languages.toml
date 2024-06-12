@@ -1,0 +1,29 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Ransomware Negotiation, Social Engineering & Physical Penetration testing experts"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "Brainstorm Security LTD, <br>124 City Road, <br>London, EC1V 2NX. <br>Registered UK LTD <br>Company No 13751634."
+# copyright
+copyright = "Design By [Themefisher] Develop By [Gethugothemes]"
+
+
+
+############################# Deutsch ############################
+[de]
+languageName = "De"
+title = "Ransomware Negotiation, Social Engineering and Physical Penetration testing experts"
+contentDir = "content/deutsch" # content/german
+weight = 2
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+footer_content = "Brainstorm Security LTD, <br>124 City Road, <br>London, EC1V 2NX. <br>Registered UK LTD <br>Company No 13751634."
+# copyright
+copyright = "Design von [Themefisher](themefisher) Entwickelt von [Gethugothemes](gethugothemes)"

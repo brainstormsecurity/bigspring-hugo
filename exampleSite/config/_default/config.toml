@@ -1,0 +1,15 @@
+######################## default configuration ####################
+baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
+title = "Brainstorm Security Ltd - Ransomware Negotiation, Social Engineering and Penetration testing"
+theme = "bigspring-light"
+# post pagination
+paginate = "10"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "UA-224575125-1" # example : UA-123-44
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true

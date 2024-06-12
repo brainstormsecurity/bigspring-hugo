@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+	{{ partial "head.html" . }}
+	{{ partialCached "style.html" . }}
+</head>
+
+<body>
+	{{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+    
+    <section class="banner">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-10 mx-auto text-center">
+              <h1 class="mb-3">404 ERROR</h1>
+              <h1 class="mb-3">I don't think this was the Brainstorm page you wanted?</h1>
+              <iframe src="https://giphy.com/embed/l41lJ8ywG1ncm9FXW" width="480" height="339" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/brain-neuroscience-visualization-l41lJ8ywG1ncm9FXW"></a></p>
+              <p class="mb-4">{{ i18n "error404" }}</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+	{{- partial "footer.html" . -}}
+</body>
+
+</html>

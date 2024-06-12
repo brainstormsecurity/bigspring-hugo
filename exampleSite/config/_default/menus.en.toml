@@ -1,0 +1,82 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+weight = 3
+name = "Services"
+hasChildren = true
+
+  [[main]]
+  parent = "Services"
+  name = "Security Testing"
+  url = "security-testing/"
+  weight = 3
+
+  [[main]]
+  parent = "Services"
+  name = "Cyber Awareness Training"
+  url = "training/"
+  weight = 2
+
+  [[main]]
+  parent = "Services"
+  name = "Ransomware Negotiation"
+  url = "ransomware-negotiation/"
+  weight = 1
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "About Us"
+url = "aboutus/"
+
+[[footer_left]]
+name = "Contact Us"
+url = "contact/"
+
+[[footer_left]]
+name = "Blog"
+url = "blog/"
+
+
+[[footer_middle]]
+name = "Training"
+url = "training/"
+
+[[footer_middle]]
+name = "Security Testing"
+url = "security-testing/"
+
+[[footer_middle]]
+name = "Ransomware Negotiation"
+url = "ransomware-negotiation/"
+
+# footer menu right
+[[footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+
+[[footer_right]]
+name = "FAQ"
+url = "faq/"
