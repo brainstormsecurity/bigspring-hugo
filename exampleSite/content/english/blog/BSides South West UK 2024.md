@@ -36,7 +36,7 @@ BSides Exeter isn't just about one talk! This community-driven conference offers
 
 **Join the BSides Exeter Community**
 
-Whether you're looking to expand your knowledge, connect with fellow security professionals, or simply stay ahead of the latest threats, BSides Exeter is the place to be. Head over to [BSidesexeter.co.uk] (BSidesexeter.co.uk) to register and secure your spot. 
+Whether you're looking to expand your knowledge, connect with fellow security professionals, or simply stay ahead of the latest threats, BSides Exeter is the place to be. Head over to [BSidesexeter.co.uk] (https://BSidesexeter.co.uk) to register and secure your spot. 
 
 See you there!
 
