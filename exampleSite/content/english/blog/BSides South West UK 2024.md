@@ -1,5 +1,5 @@
 ---
-title: "BSides Exceter, South West UK 2024: Let's talk about Ransomware Negotiation"
+title: "BSides Exeter, South West UK 2024: Let's talk about Ransomware Negotiation"
 date: 2024-06-12T10:07:21+06:00
 # post image
 image: "images/blog/bsides2024.jpg"
