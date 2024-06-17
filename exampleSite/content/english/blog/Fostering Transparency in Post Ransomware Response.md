@@ -1,6 +1,6 @@
 ---
 title: "Sharing After the Storm: Fostering Transparency in Post-Ransomware Response"
-date: 2024-06-17T10:07:21+06:00
+date: 2024-06-16T10:07:21+06:00
 # post image
 image: "images/blog/share_post_incident_data.png"
 # post type (regular/featured)
