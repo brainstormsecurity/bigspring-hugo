@@ -4,7 +4,7 @@ date: 2024-06-16T10:07:21+06:00
 # post image
 image: "images/blog/share_post_incident_data.png"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "SHARING POST INCIDENT cyber and ransomware response data and learning points to prevent attacks in the future"
 # post draft
