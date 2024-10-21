@@ -36,8 +36,5 @@ This session is designed to equip you with the knowledge and tools you need to n
 
 BSides Exeter isn't just about one talk! This community-driven conference offers a full day of learning and networking opportunities. Expect a lineup of engaging talks, workshops, and hacking villages covering a wide range of cybersecurity topics. 
 
-**Join the BSides Exeter Community**
-
-Whether you're looking to expand your knowledge, connect with fellow security professionals, or simply stay ahead of the latest threats, BSides Exeter is the place to be. Head over to [BSidesexeter.co.uk](https://BSidesexeter.co.uk) to register and secure your spot. 
 
 
