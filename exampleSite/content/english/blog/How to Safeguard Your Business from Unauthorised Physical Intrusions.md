@@ -1,5 +1,5 @@
 ---
-title: "How to Safeguard Your Business from Unauthorised Intrusions: A Comprehensive Guide" 
+title: "How to Safeguard Your Business from Unauthorised Physical Intrusions: A Comprehensive Guide" 
 date: 2024-10-02T07:07:21+06:00
 # post image
 image: "images/blog/intruder.jpg"
