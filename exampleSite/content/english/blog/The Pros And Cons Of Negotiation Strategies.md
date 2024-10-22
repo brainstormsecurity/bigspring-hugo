@@ -4,7 +4,7 @@ date: 2024-10-01T07:07:21+06:00
 # post image
 image: "images/blog/bsidesexetertalkransomware24.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Navigating the Ransomware Negotiation Dilemma at BSides Exeter 2024"
 # post draft
