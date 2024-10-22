@@ -1,6 +1,6 @@
 ---
 title: "The Ransomware Negotiation Dilemma: The Pros And Cons Of Negotiation Strategies BSides Exeter UK 2024" 
-date: 2024-10-20T07:07:21+06:00
+date: 2024-10-01T07:07:21+06:00
 # post image
 image: "images/blog/bsidesexetertalkransomware24.jpg"
 # post type (regular/featured)
