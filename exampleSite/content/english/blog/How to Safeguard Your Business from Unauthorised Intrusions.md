@@ -29,9 +29,9 @@ Emergency Response Plans: Develop and regularly practice emergency response plan
 
 ### Employee Training and Awareness
 
-Employee Training and Awareness are vital in minimizsng incidents promptly, and following established security procedures. Additionally, educated employees are less likely to fall victim to social engineering tactics, which intruders often employ to gain access. By understanding security protocols and recognising potential threats, employees can help prevent unauthorised entry and mitigate the risks associated with such incidents. Furthermore, trained employees can contribute to a more secure work environment by being vigilant and reporting any vulnerabilities or weaknesses in security measures.
+Employee Training and Awareness are vital in minimising incidents promptly, and following established security procedures. Additionally, educated employees are less likely to fall victim to social engineering tactics, which intruders often employ to gain access. By understanding security protocols and recognising potential threats, employees can help prevent unauthorised entry and mitigate the risks associated with such incidents. Furthermore, trained employees can contribute to a more secure work environment by being vigilant and reporting any vulnerabilities or weaknesses in security measures.
 
-**Physical Penetration Testing** By conducting physical penetration tests on not just your network, but on your buildings and staff, you will gain a fuller understanding of any vunerabilities. Use a trusted and experienced security company like Brainstorm Security Ltd to carry out this work on your behalf. This will help you target training or manage budgets for physical security mewasures. Knowing how an attacker, criminal or activist may attack your business, allows you to protect it. 
+**Physical Penetration Testing** By conducting physical penetration tests on not just your network, but on your buildings and staff, you will gain a fuller understanding of any vunerabilities. Use a trusted and experienced security company like Brainstorm Security Ltd, to carry out this work on your behalf. This will help you target training or manage budgets for physical security mewasures. Knowing how an attacker, criminal or activist may attack your business, allows you to protect it. 
 
 **Social Engineering Awareness:** Educate employees about social engineering tactics, such as persons trying to trailgate into buildings behing genuine employees or phishing and pretexting over the phone or via phone calls, to help them identify and avoid potential threats. 
 
@@ -39,7 +39,7 @@ Employee Training and Awareness are vital in minimizsng incidents promptly, and 
 
 **Regular Security Drills:** Conduct regular security drills to test your emergency response plans and ensure employees are prepared to react effectively in case of an incident.
 
-**Create an Unauthorised Intruder Protocol:** What does a member of staff do if the find or suspect an unauthoried person is on the premises? Don't know? They probably don't know either. Create a process for staff to follow should that occur. Train your staff and practice for the worst. Your staff may feel very nervous if faced with an intruder, so have a great plan and train them to provide confidence. Not sure how to do this? Please contact us at Brainstorm Security and we will assist you.
+**Create an Unauthorised Intruder Protocol:** What does a member of staff do if the find or suspect an unauthoried person is on the premises? Don't know? They probably don't know either. Create a process for staff to follow should that occur. Train your staff and practice for the worst. Your staff may feel very nervous if faced with an intruder, so have a great plan and train them to provide confidence. Not sure how to do this? Please [contact us]({{< ref "/contact" >}} "contact us") at Brainstorm Security and we will assist you.
 
 ### Business Continuity Planning
 
