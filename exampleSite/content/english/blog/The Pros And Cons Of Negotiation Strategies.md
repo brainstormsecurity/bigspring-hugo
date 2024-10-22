@@ -12,7 +12,7 @@ draft: false
 
 ---
 
-## BSides Exeter has finally released the youtube video of the talk "The Ransomware Negotiation Dilemma: The Pros And Cons Of Negotiation Strategies"
+**BSides Exeter has finally released the youtube video of the talk "The Ransomware Negotiation Dilemma: The Pros And Cons Of Negotiation Strategies"**
 
 {{< youtube LBsXiyqjPmM >}}
 
