@@ -1,8 +1,8 @@
 ---
-title: "BSides Exeter, South West UK 2024: Let's talk about Ransomware Negotiation"
-date: 2024-06-12T10:07:21+06:00
+title: "The Ransomware Negotiation Dilemma: The Pros And Cons Of Negotiation Strategies BSides Exeter UK 2024"
+date: 2024-10-12T10:07:21+06:00
 # post image
-image: "images/blog/bsides2024.jpg"
+image: "images/blog/bsidesexetertalkransomware24.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
@@ -12,9 +12,11 @@ draft: false
 
 ---
 
-## Gear Up for BSides Exeter: Unveiling the Secrets of Ransomware Negotiation
+## BSides Exeter has finally released the youtube video of the talk "The Ransomware Negotiation Dilemma: The Pros And Cons Of Negotiation Strategies"
 
-Calling all cybersecurity professionals and enthusiasts in the southwest of England! BSides Exeter is fast approaching, and this year promises an amazing line up of speakers and interactive workshops / lockpicking village. Mark your calendars for 27th July 2024 and get ready to dive deep into the ever-evolving world of information security.
+{{< youtube LBsXiyqjPmM&t >}}
+
+I hope you enjoy.
 
 **The Threat Landscape: Ransomware on the Rise**
 
@@ -34,10 +36,5 @@ This session is designed to equip you with the knowledge and tools you need to n
 
 BSides Exeter isn't just about one talk! This community-driven conference offers a full day of learning and networking opportunities. Expect a lineup of engaging talks, workshops, and hacking villages covering a wide range of cybersecurity topics. 
 
-**Join the BSides Exeter Community**
 
-Whether you're looking to expand your knowledge, connect with fellow security professionals, or simply stay ahead of the latest threats, BSides Exeter is the place to be. Head over to [BSidesexeter.co.uk](https://BSidesexeter.co.uk) to register and secure your spot. 
 
-See you there!
-
-#oooarrcyber #comeonin
