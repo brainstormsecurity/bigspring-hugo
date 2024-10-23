@@ -2,10 +2,10 @@
 sitemap:
   changefreq: weekly
   priority: 0.8
-title: "Physical Security Testing"
+title: "Physical Penetration Security Testing"
 subtitle: "Social Engineering & Physical Security Testing"
 # meta description
-description: "Social Engineering & Physical Security Testing services for your staff"
+description: "Professional physical penetration testing services specialising in social engineering (SE). Identify and exploit human vulnerabilities to improve your organisation's security. Enhance protection through expert SE-based assessments and training."
 draft: false
 
 ---
@@ -15,7 +15,7 @@ draft: false
 
 
 
-## Social Engineering & Physical Security Testing
+## Social Engineering & Physical Penetration Security Testing
 
 <br>
 

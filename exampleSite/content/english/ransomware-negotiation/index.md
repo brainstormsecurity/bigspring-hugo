@@ -5,7 +5,7 @@ sitemap:
 title: "Ransomware Negotiation"
 subtitle: "Ransomware negotiation is much more than incident response."
 # meta description
-description: "UK based negotiation services for assessing and responding to ransomware attacks, including negotiation with threat actors and OpSec response."
+description: "Expert ransomware negotiation services from ex-law enforcement professionals, based in the UK and serving clients worldwide. Safeguard your business with experienced negotiators who can minimise damage and secure your data"
 draft: false
 
 ---
