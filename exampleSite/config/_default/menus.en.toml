@@ -16,7 +16,7 @@ hasChildren = true
 
   [[main]]
   parent = "Services"
-  name = "Security Testing"
+  name = "Physical Penetration Security Testing"
   url = "security-testing/"
   weight = 3
 
