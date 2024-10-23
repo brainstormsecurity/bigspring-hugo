@@ -6,7 +6,7 @@ image: "images/blog/share_post_incident_data.png"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "SHARING POST INCIDENT cyber and ransomware response data and learning points to prevent attacks in the future"
+description: "Explore how fostering transparency after a ransomware attack can strengthen defences and improve recovery. Learn the benefits and challenges of sharing post-incident response data, and discover best practices for building a collaborative culture in cybersecurity. SHARING POST INCIDENT cyber and ransomware response data and learning points to prevent attacks in the future"
 # post draft
 draft: false
 
