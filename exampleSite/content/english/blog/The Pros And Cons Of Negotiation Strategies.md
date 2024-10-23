@@ -6,7 +6,7 @@ image: "images/blog/bsidesexetertalkransomware24.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Navigating the Ransomware Negotiation Dilemma at BSides Exeter 2024"
+description: "Explore expert insights from a BSides talk on ransomware negotiation strategies, featuring advice from ex-law enforcement professionals. Learn the pros and cons of negotiation approaches for global organisations, with a focus on UK-based expertise."
 # post draft
 draft: false
 
