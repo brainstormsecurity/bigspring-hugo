@@ -71,5 +71,7 @@ The criminals are not just targeting your systems; they are targeting your peopl
 
 If you are worried about how to pretect your organisation from insider threats or would like to find out more, please get in touch with Brainstorm Security Ltd today. 
 
-You can read the full chilling article on the BBC website https://www.bbc.co.uk/news/articles/c3w5n903447o of how Cyber correspondent Joe Tidy, was offered a deal by criminals to help hack the BBC.
+You can read the full chilling article on the BBC website of how Cyber correspondent Joe Tidy, was offered a deal by criminals to help hack the BBC.
 
+
+ https://www.bbc.co.uk/news/articles/c3w5n903447o 
