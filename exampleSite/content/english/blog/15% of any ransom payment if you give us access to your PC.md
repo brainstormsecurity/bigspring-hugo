@@ -2,7 +2,7 @@
 title: "15% of any ransom payment if you give us access to your PC"
 date: 2025-09-28T10:07:21+06:00
 # post image
-image: "images/blog/cleaner (5).jpg"
+image: "images/blog/bbc.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
