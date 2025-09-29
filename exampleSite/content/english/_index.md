@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Experts in Ransomware negotiation. Ex-law enforcement supporting you during critical ransomware incidents."  
+  title : "Experts in ransomware negotiation. Ex-law enforcement supporting you during critical ransomware incidents."  
   image : "images/camera.jpg"
   content : "When faced with a time critical ransomware demand, experience makes the difference. Secure your business with an experienced ransomware negotiator.
 
