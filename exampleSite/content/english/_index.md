@@ -32,7 +32,7 @@ Contact us today for a confidential consultation and see how our veteran negotia
 
   <br><br>
   
-  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against social engineers (con artists) and physical penetration by an offender."
+  If you are looking to improve or test your physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against social engineers (con artists) and physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
