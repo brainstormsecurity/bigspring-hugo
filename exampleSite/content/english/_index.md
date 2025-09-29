@@ -26,13 +26,13 @@ Contact us today for a confidential consultation and see how our veteran negotia
   
   <br><br>
 
-## We also help solve your physical security threats, by testing your facilities & training your people.
+## We also help solve your physical security threats, by testing your facilities and training your people.
 
-  Need help with your physical security? What would happen if your premises or business had a physical intruder gain access? What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal Risks? 
+  Need help with your physical security? What would happen if your premises or business had a physical intruder gain access? What risks would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss of trust in your company, loss of personal possessions? Reputational risk? Compliance risks? Legal risks? 
 
   <br><br>
   
-  If you are looking to improve or test your Physical security or as part of your ongoing cybersecurity threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and physical penetration by an offender."
+  If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access, using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against social engineers (con artists) and physical penetration by an offender."
   button:
     enable : true
     label : "Contact Us"
@@ -46,17 +46,17 @@ feature:
       # feature item loop
     - name : "Experienced Experts"
       icon : "fas fa-user-secret"
-      content : "Our security consultants are seasoned professionals with years of law enforcement, military or cyber experience. We understand what insider threats you can mitigate."
+      content : "Our security consultants are seasoned professionals with years of law enforcement, military or cyber experience. We help you to mitigate any insider threats."
 
     # feature item loop
-    - name : "Training"
+    - name : "Top Training"
       icon : "fas fa-user-graduate"
-      content : "We believe strongly in training people to protect against threats. We can help train your staff to thwart social engineering, cyber and real world threats."
+      content : "We believe strongly in training people to protect against threats. We can help train your staff to thwart social engineering, cyber and real-world threats."
       
     # feature item loop
     - name : "Clear Reports"
       icon : "fas fa-file-alt"
-      content : "Following our assessments. We provide clear detailed reports of all our findings, including any recommendations, physical or training improvements for you."
+      content : "Following our assessments we provide clear detailed reports of all our findings, including any recommendations, physical or training improvements for you."
       
     # feature item loop
     - name : "Consultation"
@@ -66,12 +66,12 @@ feature:
     # feature item loop
     - name : "Insider Threats"
       icon : "fas fa-address-card"
-      content : "It is a common requirement of information security programs to replicate the threat of social engineering attacks through regular penetration tests."
+      content : "It is a common requirement of information security programmes to replicate the threat of social engineering attacks through regular penetration tests."
       
     # feature item loop
-    - name : "Ransomware Negotiator"
+    - name : "Ransomware Negotiators"
       icon : "fas fa-comments-dollar"
-      content : "Our negotiators, are experienced in engaging with well known ransomware groups and threat actors, so are best placed to help with your incident response."
+      content : "Our negotiators are experienced in engaging with well-known ransomware groups and threat actors, so are best placed to help with your incident response."
       
 
 ######################### Service ######################
@@ -87,7 +87,7 @@ service:
      
       content : "With in-depth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br><br>
 
-      Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then consider how you can do things better."
+      Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff cope – and then consider how you can do things better."
       button:
         enable : true
         label : "Arrange a free consultation."
@@ -110,8 +110,8 @@ service:
     - title : "Extortion Negotiation"
       images:
       - "images/nervous lady.jpg"
-      content : "Our professional team of cyber extortion case managers will negotiate 24/7 on your behalf and won’t stop until directed to or your incident is resolved
-      You can focus on managing your recovery while Brainstorm Security works within your timeline to get to a desired result. Leverage our experienced negotiators to ensure both ransom amount and risks are minimised"
+      content : "Our professional team of cyber extortion case managers will negotiate 24/7 on your behalf and won’t stop until directed to or your incident is resolved.
+      You can focus on managing your recovery while Brainstorm Security works within your timeline to get to a desired result. You can use our experienced negotiators to ensure both ransom amount and risks are minimised."
       button:
         enable : true
         label : "Find out more about our ransom extortion negotiation services"
