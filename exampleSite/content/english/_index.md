@@ -3,13 +3,13 @@
 banner:
   title : "Experts in Ransomware negotiation. Ex-law enforcement supporting you during critical ransomware incidents."  
   image : "images/camera.jpg"
-  content : "When faced with a time critical ransomware demand, experience makes the difference: Secure your business with a experienced ransomware negotiator.
+  content : "When faced with a time critical ransomware demand, experience makes the difference. Secure your business with an experienced ransomware negotiator.
 
 ### Faced with a ransomware attack? 
 
-Your systems locked, data hostage, and a ticking clock spewing threats. In this heart-stopping scenario, panic can be a liability. You need a calm, calculated mind, an operational-tested negotiator who's seen it before and knows how to navigate criminal environments. That's where we come in.
+Your systems locked, data hostage, and a ticking clock spewing threats. In this heart-stopping scenario, panic can be a liability. You need a calm, calculated mind. An operational-tested negotiator who's seen it all before and knows how to navigate criminal environments. That's where we come in.
 
- Our seasoned ransomware negotiators, veterans of countless successful resolutions, brings unwavering expertise and razor-sharp tactics to the table. We understand the attacker's playbook, their pressure tactics, and their vulnerabilities. We speak their language, having spend decades negotiating with criminals as law enforcement officers but unlike them, we prioritise your safety and recovery above all else.
+ Our seasoned ransomware negotiators, veterans of countless successful resolutions, bring unwavering expertise and razor-sharp tactics to the table. We understand the attacker's playbook, their pressure tactics, and their vulnerabilities. We speak their language, having spent decades negotiating with criminals as law enforcement officers. However, unlike them, we prioritise your safety and recovery above all else.
 
 ### Here's how we can help with your ransomware negotiation needs:
 
