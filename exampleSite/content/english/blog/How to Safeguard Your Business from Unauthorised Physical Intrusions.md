@@ -4,7 +4,7 @@ date: 2024-10-02T07:07:21+06:00
 # post image
 image: "images/blog/intruder.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Discover essential strategies to protect your business from unauthorized intrusions, including physical security measures, Social Engineering and Physical Penetration Tests, Cybersecurity best practices, and employee training. Learn how to safeguard your assets and maintain a secure operating environment."
 # post draft
