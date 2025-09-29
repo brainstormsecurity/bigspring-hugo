@@ -28,15 +28,15 @@ When I see a company take such an uncompromising stance so quickly, I immediatel
 
 ![image](../../images/blog/Harrods_store.jpg)
 
-1.	Arrogance from the Store: In some high-profile cases, executive leadership can believe their brand strength or legal position is sufficient insulation against criminal action, leading them to underestimate the importance of communication with ransomware gangs.
+1.**Arrogance from the Store:** In some high-profile cases, executive leadership can believe their brand strength or legal position is sufficient insulation against criminal action, leading them to underestimate the importance of communication with ransomware gangs.
 
-2.	Misunderstanding the Importance of Dialogue: Engagement isn't payment. Companies sometimes fail to grasp that opening communications is a vital intelligence-gathering exercise, not an immediate surrender.
+2.	**Misunderstanding the Importance of Dialogue:** Engagement isn't payment. Companies sometimes fail to grasp that opening communications is a vital intelligence-gathering exercise, not an immediate surrender.
 
-3.	Advice from Police or Incident Response Teams (IR): It is possible the police or supporting IR firms advised a complete shutdown of communication. While this is sometimes the right move, it often hinders a comprehensive response by cutting off the only line to the perpetrator.
+3.	**Advice from Police or Incident Response Teams (IR):** It is possible the police or supporting IR firms advised a complete shutdown of communication. While this is sometimes the right move, it often hinders a comprehensive response by cutting off the only line to the perpetrator.
 
-4.	Miscommunication to the Media: The company may have failed to clearly distinguish between not paying and not engaging. Their intended message might have been "we will not pay," but the public statement became "we will not talk."
+4.	**Miscommunication to the Media:** The company may have failed to clearly distinguish between not paying and not engaging. Their intended message might have been "we will not pay," but the public statement became "we will not talk."
 
-5.	A Stalling Strategy: On the tactical side, a declaration of non-engagement can sometimes be a clever, albeit risky, stalling tactic designed to buy time for forensic analysis and system hardening while the threat actor waits for a response that will never come.
+5.	**A Stalling Strategy:** On the tactical side, a declaration of non-engagement can sometimes be a clever, albeit risky, stalling tactic designed to buy time for forensic analysis and system hardening while the threat actor waits for a response that will never come.
 
 
 ![image](../../images/blog/ransom.jpg)
