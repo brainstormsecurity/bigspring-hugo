@@ -63,7 +63,7 @@ As a negotiator, my advice is clear: you cannot afford to wait until a six-figur
 
 **Implement Principle of Least Privilege (PoLP).** This is non-negotiable. No employee, regardless of seniority, should have more system access than their role strictly requires. Limiting lateral movement is the single most effective technical defense against a compromised insider.
 
-**Continuous Monitoring for Anomalous Behavior.** Behavioral analysis tools that track unusual log-in times, excessive data downloads, or attempts to access systems outside of normal job functions are vital. A system must flag when a user is attempting unusual activities, even if they are using valid credentials.
+**Continuous Monitoring for Anomalous Behaviour.** Behavioral analysis tools that track unusual log-in times, excessive data downloads, or attempts to access systems outside of normal job functions are vital. A system must flag when a user is attempting unusual activities, even if they are using valid credentials.
 
 
 The criminals are not just targeting your systems; they are targeting your people. In the ransomware era, the insider is the most efficient and alarming vulnerability. Protecting your organisation starts with ensuring that every employee understands the threat and is empowered to be the first and strongest line of defence.
