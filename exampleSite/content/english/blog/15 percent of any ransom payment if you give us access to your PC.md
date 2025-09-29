@@ -69,7 +69,7 @@ As a negotiator, my advice is clear: you cannot afford to wait until a six-figur
 The criminals are not just targeting your systems; they are targeting your people. In the ransomware era, the insider is the most efficient and alarming vulnerability. Protecting your organisation starts with ensuring that every employee understands the threat and is empowered to be the first and strongest line of defence.
 
 
-If you are worried about how to pretect your organisation from insider threats or would like to find out more, please get in touch with Brainstorm Security Ltd today. 
+If you are worried about how to protect your organisation from insider threats or would like to find out more, please get in touch with Brainstorm Security Ltd today. 
 
 You can read the full chilling article on the BBC website of how Cyber correspondent Joe Tidy, was offered a deal by criminals to help hack the BBC.
 
