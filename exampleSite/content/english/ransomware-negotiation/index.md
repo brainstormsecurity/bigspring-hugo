@@ -9,8 +9,8 @@ description: "Expert ransomware negotiation services from ex-law enforcement pro
 draft: false
 
 ---
+iframe src=“https://www.youtube.com/embed/wvTWYLbe01M&t=9307s” >}}
 
-{{< youtube id=“v=wvTWYLbe01M&t=9307s” >}}
 ![image](../../images/negotiate.jpg)
 
 
