@@ -9,7 +9,7 @@ description: "Expert ransomware negotiation services from ex-law enforcement pro
 draft: false
 
 ---
-<iframe width="1265" height="480" src="https://www.youtube.com/embed/wvTWYLbe01M=9307s" title="Ian Collins | 01-Oct-25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/wvTWYLbe01M" title="Ian Collins | 01-Oct-25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![image](../../images/negotiate.jpg)
 
