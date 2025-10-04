@@ -9,7 +9,9 @@ description: "Expert ransomware negotiation services from ex-law enforcement pro
 draft: false
 
 ---
-<iframe src="https://www.youtube.com/embed/wvTWYLbe01M" title="Ian Collins | 01-Oct-25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/wvTWYLbe01M?si=4AyyxenMzSulX6nZ&amp;start=9383" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Richard Foster from Brainstorm Security discussing Ransomware attacks on Talk TV
 
 ![image](../../images/negotiate.jpg)
 
