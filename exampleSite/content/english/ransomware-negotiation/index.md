@@ -10,7 +10,7 @@ draft: false
 
 ---
 
-
+{{< youtube id=“v=wvTWYLbe01M&t=9307s” >}}
 ![image](../../images/negotiate.jpg)
 
 
@@ -19,7 +19,7 @@ draft: false
 
 <br>
 
-### Ransomware Negotiator Services: Why hire a professional negotiator?
+### Why is is critical to hire a Ransomware Negotiator during a critical cyber attack?
 
 <br>
 
