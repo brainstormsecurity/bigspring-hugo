@@ -114,7 +114,9 @@ How these objectives are achieved can vary from engagement to engagement, but it
 
 <br>
 
-![image](../../images/The_Sun_Exclusive_report_on_Hacking_ransomware_negotiation_brainstorm_security.png)
+### As Seen in the Media: Brainstorm Security, Leaders in Ransomware Negotiation
+
+[News graphic or magazine cover from The Sun news featuring Brainstorm Security for their expert ransomware negotiation services]![image](../../images/The_Sun_Exclusive_report_on_Hacking_ransomware_negotiation_brainstorm_security.png)
 
 ### The benefits of using a trusted ransomware negotiator. 
 
