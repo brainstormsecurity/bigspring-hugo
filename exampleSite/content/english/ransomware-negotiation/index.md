@@ -25,10 +25,6 @@ draft: false
 Have you fallen victim to ransomware? Are your valuable files being held hostage by cyber criminals? Don't despair! Our professional ransomware negotiator services can help. 
 
 <br>
-<iframe class="youtube-video" src="https://www.youtube.com/embed/wvTWYLbe01M?si=4AyyxenMzSulX6nZ&amp;start=9383" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<br>
-### Richard Foster from Brainstorm Security discussing Ransomware attacks on Talk TV
-<br>
 
 ### What We Offer..
 
@@ -42,7 +38,11 @@ Have you fallen victim to ransomware? Are your valuable files being held hostage
 *	24/7 availability and quick response times.
 *	Affordable, clear and straightforward pricing.
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/wvTWYLbe01M?si=4AyyxenMzSulX6nZ&amp;start=9383" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br> 
 
+### Richard Foster from Brainstorm Security discussing Ransomware attacks on Talk TV 
+<br>
 <hr>
 
 ### Hiring a ransomware negotiator? How It Works.
