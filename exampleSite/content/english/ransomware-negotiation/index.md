@@ -99,7 +99,7 @@ How these objectives are achieved can vary from engagement to engagement, but it
 
 ### What should a ransomware negotiator quickly identify?
 
-![image](../../images/hacker_ransomware.jpg)
+![image](../../images/hacker_ransomware.jpg)<a href="https://www.thesun.co.uk/news/36871107/cyber-criminal-hacker-ransom-attack/">
 <br>
 
 1. **Monetary demands.** Our negotiators will quickly ascertain exactly how much the threat actor or group is really asking for rather than what they have initially demanded.
@@ -113,6 +113,8 @@ How these objectives are achieved can vary from engagement to engagement, but it
 5. **Threat escalation tactics.** Experienced negotiators will quickly ascertain whether threats of escalations in the demand, data leaks or imposition of stringent deadlines are likely. Any negotiation should be designed to make the situation better, not worse. 
 
 <br>
+
+![image](../../images/The_Sun_Exclusive_report_on_Hacking_ransomware_negotiation_brainstorm_security.png)
 
 ### The benefits of using a trusted ransomware negotiator. 
 
