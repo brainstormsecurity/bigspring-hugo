@@ -139,7 +139,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "Ready to get started?"
-  image : [A person viewing multiple security alerts or threats on a tablet, representing the "human firewall."] "images/door.jpg"
+  image : [A persons hand opening a secure door with a set of keys left in place by a perentration tester] "images/door.jpg"
   content : "Get in touch so we can discuss your problems and formulate a plan to help."
   button:
     enable : true
