@@ -23,7 +23,7 @@ Ransomware-as-a-Service (RaaS) groups, such as the notorious Medusa, have profes
 
 The financial incentive structure they employ is staggering, specifically targeting employees who may be facing financial distress, dissatisfaction, or simply possess a willingness to compromise their ethical standards for massive personal gain.
 
-![image](../../images/blog/hacker1.jpg)
+![Ransomware hacker wearing gloves, using a laptop in dark room to negotiate](../../images/blog/hacker1.jpg)
 
 This shift was chillingly demonstrated in the public eye recently, when a criminal gang directly propositioned a BBC reporter for access to the organization's network. As the reporter Joe Tidy detailed, the criminal operator, using the encrypted chat app Signal, initially offering **"15% of any ransom payment if you give us access to your PC."**
 
@@ -31,7 +31,7 @@ The negotiation rapidly escalated, illustrating the immense value criminals plac
 
 This is not idle boasting; it is a calculated business model designed to turn trusted employees into unwitting, or witting, criminal partners.
 
-![image](../../images/blog/bbc.jpg)
+![Top of a computerscreen showing the BBC news website relating to ransomware news](../../images/blog/bbc.jpg)
 
 #### How Ransomware Gangs Target and Convert Insiders
 

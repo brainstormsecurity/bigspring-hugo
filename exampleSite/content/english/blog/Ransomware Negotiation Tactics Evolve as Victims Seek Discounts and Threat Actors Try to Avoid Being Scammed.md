@@ -26,7 +26,7 @@ Ransom negotiation primarily involves lawyers, cybersecurity firms, and private 
 
 **An unexpected request**
 
-![image](../../images/blog/money.jpg)
+![a metal case containing large amounts of ransom money](../../images/blog/money.jpg)
 
 In the European case mentioned, the negotiator successfully negotiated down the hackers' payment demands by tens of thousands of dollars. However, the situation took an unexpected turn when the hackers expressed concerns about potential deception on the negotiator's part. They demanded proof of his integrity, such as a copy of his contract or communication records with the victim, fearing that he might be skimming off additional funds for personal gain. This is a real risk for victim companies, when considering who to hire to conduct ransomware negotiations.
 

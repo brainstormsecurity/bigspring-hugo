@@ -20,7 +20,7 @@ Three international arrest warrants and five indictments have also been issued b
 **LockBit Websites Seized:**
 LockBit websites now display a takeover message by authorities, indicating a full disclosure of operations. Global law enforcement agencies have taken control of eight ".onion" domains owned by the ransomware group, with messages confirming their control over the sites.
 
-![image](../../images/blog/bloglockbit.jpg)
+![A screen capture of the lockbit darkweb leaksite, following seizure by the NCA National Crime Agency as part of Op Cronos](../../images/blog/bloglockbit.jpg)
 
 **Home Secretary James Cleverly said:** 
 
@@ -39,7 +39,7 @@ Now there has been official confirmation and press release regarding the seizure
 **Impact on LockBit’s Operations:**
 The takedown has not only seized key operations of the ransomware gang but has also locked out LockBit’s affiliates attempting to access the affiliate panel. This panel serves as a central control hub for managing various LockBit ransomware activities.
 
-![image](../../images/blog/VX.jpg)
+![A screen capture of a message on the lockbit ransomware affiliates control panel, from the NCA stating law enforcement has taken control](../../images/blog/VX.jpg)
 
 **LockBit’s Rise and Fall:**
 LockBit ransomware-as-a-service (RaaS) gained rapid prominence since its inception in 2019, quickly becoming one of the most widely used ransomware strains by 2022. However, with the recent takedown operation, its reign faces a significant challenge.
