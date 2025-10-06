@@ -109,7 +109,7 @@ service:
     # service item loop
     - title : "Extortion Negotiation"
       images:
-      - "images/nervous lady.jpg"
+      - [A concerned corporate computer user, dressed in business wear looking over her shoulder]"images/nervous lady.jpg"
       content : "Our professional team of cyber extortion case managers will negotiate 24/7 on your behalf and won’t stop until directed to or your incident is resolved.
       You can focus on managing your recovery while Brainstorm Security works within your timeline to get to a desired result. You can use our experienced negotiators to ensure both ransom amount and risks are minimised."
       button:
@@ -120,7 +120,7 @@ service:
     # service item loop
     - title : "A security company standing different from others"
       images:
-      - "images/vip.jpg"
+      - [A VIP at the back of a luxury car, feeling safe that her company is protected] "images/vip.jpg"
       content : "We don't simulate or theorize what would happen. We will attempt to breach your physical security, just like the bad guys. It can be easier than you may imagine. We figure out your most likely threats, then use the same methods they would. This leaves no guess work as to how your facility's security would hold up against a real intrusion by criminals or activists. We are experienced at testing the security of VIPs, heads of state and vetted secure facilities. Armed with this knowledge, you can adjust your security to match real world threats."
       button:
         enable : true
