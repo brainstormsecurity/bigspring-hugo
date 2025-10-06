@@ -10,7 +10,7 @@ draft: false
 
 ---
 
-![image](../../images/negotiate.jpg)
+![Ransomware negotiator working at a laptop showing a glowing ransom note displayed on a dark computer screen.](../../images/negotiate.jpg)
 
 
 
@@ -59,7 +59,7 @@ If you have just received a ransomware demand - Don't panic.
 
 ### Why Choose Us?
 
-![image](../../images/text.jpg)
+![Close-up of hands typing a negotiation message to an attacker, focusing on monetary demands.](../../images/text.jpg)
 
 * We have a team of experienced negotiators who know how to deal with cyber criminals and get results.
 

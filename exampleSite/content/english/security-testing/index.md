@@ -11,7 +11,7 @@ draft: false
 ---
 
 
-![image](../../images/ID.jpg)
+![A female operative attempting unauthorized access through a door or past a guard, using a fake ID.](../../images/ID.jpg)
 
 
 
@@ -45,7 +45,7 @@ We can help solve these problems -
 
 ### Our penetration testing workflow 
 
-![image](../../images/PhysicalPentestworkflow.PNG)
+![Flowchart illustrating the 5-step penetration testing process: Identify, Information Gathering, Reconnaissance, Test, Report.](../../images/PhysicalPentestworkflow.PNG)
 
 * Identify / Client Brief
 

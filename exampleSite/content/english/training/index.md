@@ -11,7 +11,7 @@ draft: false
 ---
 
 
-![image](../../images/training.jpg)
+![A person viewing multiple security alerts or threats on a tablet, representing the "human firewall."](../../images/training.jpg)
 
 
 
@@ -44,7 +44,7 @@ Make sure staff are trained to know the benefits of operating digitally, but are
 
 ### Our Training workflow 
 
-![image](../../images/Trainingworkflow.PNG)
+![Infographic showing the 6-step training delivery process, from Identify to Feedback.](../../images/Trainingworkflow.PNG)
 
 * Identify / Client Brief
 
